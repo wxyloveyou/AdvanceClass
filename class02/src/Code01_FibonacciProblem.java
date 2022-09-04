@@ -4,5 +4,7 @@
  * @Info : 斐波那契数列问题
  */
 public class Code01_FibonacciProblem {
-阿斯顿发士大夫dtry sdfg
+    public static void main(String[] args) {
+
+    }
 }
