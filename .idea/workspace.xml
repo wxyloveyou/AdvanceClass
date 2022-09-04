@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ffc1415-200f-4d99-b9cb-9af4e08f3636" name="变更" comment="info 斐波那契数列问题 FibonacciProblem">
+    <list default="true" id="7ffc1415-200f-4d99-b9cb-9af4e08f3636" name="变更" comment="info 斐波那契数列">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/class02/src/Code01_FibonacciProblem.java" beforeDir="false" afterPath="$PROJECT_DIR$/class02/src/Code01_FibonacciProblem.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,12 +53,17 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "模块",
+    "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Code\JavaCode\Algorithm\AdvanceClass\class02\src" />
+    </key>
+  </component>
   <component name="RunManager" selected="Application.Code01_FibonacciProblem">
     <configuration name="Code01_FibonacciProblem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Code01_FibonacciProblem" />
@@ -114,7 +120,7 @@
       <workItem from="1662123641322" duration="4360000" />
       <workItem from="1662271224720" duration="932000" />
       <workItem from="1662272170591" duration="2208000" />
-      <workItem from="1662290040459" duration="5951000" />
+      <workItem from="1662290040459" duration="7036000" />
     </task>
     <task id="LOCAL-00001" summary="info">
       <created>1662123768579</created>
@@ -221,7 +227,21 @@
       <option name="project" value="LOCAL" />
       <updated>1662296850146</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="info 斐波那契数列问题 FibonacciProblem">
+      <created>1662296969564</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1662296969564</updated>
+    </task>
+    <task id="LOCAL-00017" summary="info 斐波那契数列">
+      <created>1662297270804</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1662297270804</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -248,7 +268,8 @@
     <MESSAGE value="info" />
     <MESSAGE value="info 斐波那契数列问题" />
     <MESSAGE value="info 斐波那契数列问题 FibonacciProblem" />
-    <option name="LAST_COMMIT_MESSAGE" value="info 斐波那契数列问题 FibonacciProblem" />
+    <MESSAGE value="info 斐波那契数列" />
+    <option name="LAST_COMMIT_MESSAGE" value="info 斐波那契数列" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
