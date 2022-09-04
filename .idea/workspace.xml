@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ffc1415-200f-4d99-b9cb-9af4e08f3636" name="变更" comment="info 斐波那契数列">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/class02/src/Code01_FibonacciProblem.java" beforeDir="false" afterPath="$PROJECT_DIR$/class02/src/Code01_FibonacciProblem.java" afterDir="false" />
-    </list>
+    <list default="true" id="7ffc1415-200f-4d99-b9cb-9af4e08f3636" name="变更" comment="info 斐波那契数列问题及其变种问题和快速幂" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -120,7 +117,7 @@
       <workItem from="1662123641322" duration="4360000" />
       <workItem from="1662271224720" duration="932000" />
       <workItem from="1662272170591" duration="2208000" />
-      <workItem from="1662290040459" duration="7036000" />
+      <workItem from="1662290040459" duration="7371000" />
     </task>
     <task id="LOCAL-00001" summary="info">
       <created>1662123768579</created>
@@ -241,7 +238,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662297270804</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="info 斐波那契数列问题及其变种问题和快速幂">
+      <created>1662298378152</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1662298378152</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -269,7 +273,8 @@
     <MESSAGE value="info 斐波那契数列问题" />
     <MESSAGE value="info 斐波那契数列问题 FibonacciProblem" />
     <MESSAGE value="info 斐波那契数列" />
-    <option name="LAST_COMMIT_MESSAGE" value="info 斐波那契数列" />
+    <MESSAGE value="info 斐波那契数列问题及其变种问题和快速幂" />
+    <option name="LAST_COMMIT_MESSAGE" value="info 斐波那契数列问题及其变种问题和快速幂" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
