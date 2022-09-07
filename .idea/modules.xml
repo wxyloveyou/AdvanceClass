@@ -5,6 +5,8 @@
       <module fileurl="file://$PROJECT_DIR$/AdvanceClass.iml" filepath="$PROJECT_DIR$/AdvanceClass.iml" />
       <module fileurl="file://$PROJECT_DIR$/class01/class01.iml" filepath="$PROJECT_DIR$/class01/class01.iml" />
       <module fileurl="file://$PROJECT_DIR$/class02/class02.iml" filepath="$PROJECT_DIR$/class02/class02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/class03/class03.iml" filepath="$PROJECT_DIR$/class03/class03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/class04/class04.iml" filepath="$PROJECT_DIR$/class04/class04.iml" />
     </modules>
   </component>
 </project>

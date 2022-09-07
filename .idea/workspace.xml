@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ffc1415-200f-4d99-b9cb-9af4e08f3636" name="变更" comment="info 斐波那契数列问题及其变种问题和快速幂" />
+    <list default="true" id="7ffc1415-200f-4d99-b9cb-9af4e08f3636" name="变更" comment="info hello world">
+      <change afterPath="$PROJECT_DIR$/class03/class03.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class04/class04.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class04/src/Code01_KMP.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/class02/src/test.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,30 +45,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "jdk.selected.JAVA_MODULE": "1.8",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;1.8&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\Code\JavaCode\Algorithm\AdvanceClass\class02\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Code01_FibonacciProblem">
+  <component name="RunManager" selected="Application.Code01_KMP">
     <configuration name="Code01_FibonacciProblem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Code01_FibonacciProblem" />
       <module name="class02" />
@@ -69,23 +76,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Code02_AllLessNumSubArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Code02_AllLessNumSubArray" />
-      <module name="class01" />
+    <configuration name="Code01_KMP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Code01_KMP" />
+      <module name="class04" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Code03_MonotonousStack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Code03_MonotonousStack" />
-      <module name="class01" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Code04_AllTimesMinToMax" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Code04_AllTimesMinToMax" />
-      <module name="class01" />
+    <configuration name="Code02_ZeroLeftOneStringNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Code02_ZeroLeftOneStringNumber" />
+      <module name="class02" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -97,12 +97,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test" />
+      <module name="class02" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Code01_KMP" />
+        <item itemvalue="Application.test" />
+        <item itemvalue="Application.Code02_ZeroLeftOneStringNumber" />
         <item itemvalue="Application.Code01_FibonacciProblem" />
         <item itemvalue="Application.Test" />
-        <item itemvalue="Application.Code04_AllTimesMinToMax" />
-        <item itemvalue="Application.Code03_MonotonousStack" />
       </list>
     </recent_temporary>
   </component>
@@ -117,7 +125,9 @@
       <workItem from="1662123641322" duration="4360000" />
       <workItem from="1662271224720" duration="932000" />
       <workItem from="1662272170591" duration="2208000" />
-      <workItem from="1662290040459" duration="7371000" />
+      <workItem from="1662290040459" duration="7437000" />
+      <workItem from="1662386126560" duration="1834000" />
+      <workItem from="1662550188987" duration="2284000" />
     </task>
     <task id="LOCAL-00001" summary="info">
       <created>1662123768579</created>
@@ -245,7 +255,35 @@
       <option name="project" value="LOCAL" />
       <updated>1662298378152</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="info">
+      <created>1662298434758</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1662298434758</updated>
+    </task>
+    <task id="LOCAL-00020" summary="info Code02_ZeroLeftOneStringNumber">
+      <created>1662387665596</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1662387665596</updated>
+    </task>
+    <task id="LOCAL-00021" summary="info hello world">
+      <created>1662387854697</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1662387854697</updated>
+    </task>
+    <task id="LOCAL-00022" summary="info hello world">
+      <created>1662387912401</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1662387912401</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -269,12 +307,14 @@
     <MESSAGE value="info 单调栈&#10;数组中的某一个数，找到左右离它最近且小于它的数" />
     <MESSAGE value="info Code04_AllTimesMinToMax" />
     <MESSAGE value="info 跳马问题" />
-    <MESSAGE value="info" />
     <MESSAGE value="info 斐波那契数列问题" />
     <MESSAGE value="info 斐波那契数列问题 FibonacciProblem" />
     <MESSAGE value="info 斐波那契数列" />
     <MESSAGE value="info 斐波那契数列问题及其变种问题和快速幂" />
-    <option name="LAST_COMMIT_MESSAGE" value="info 斐波那契数列问题及其变种问题和快速幂" />
+    <MESSAGE value="info" />
+    <MESSAGE value="info Code02_ZeroLeftOneStringNumber" />
+    <MESSAGE value="info hello world" />
+    <option name="LAST_COMMIT_MESSAGE" value="info hello world" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
