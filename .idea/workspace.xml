@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ffc1415-200f-4d99-b9cb-9af4e08f3636" name="变更" comment="info Code03_IsRotation">
-      <change afterPath="$PROJECT_DIR$/class03/src/Code01_FindMinKth.java" afterDir="false" />
+    <list default="true" id="7ffc1415-200f-4d99-b9cb-9af4e08f3636" name="变更" comment="info">
+      <change afterPath="$PROJECT_DIR$/class03/src/Code02_ReservoirSampling.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,7 +64,7 @@
       <recent name="E:\Code\JavaCode\Algorithm\AdvanceClass\class02\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Code01_FindMinKth">
+  <component name="RunManager" selected="Application.Code02_ReservoirSampling">
     <configuration name="Code01_FindMinKth" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Code01_FindMinKth" />
       <module name="class03" />
@@ -75,6 +75,13 @@
     <configuration name="Code01_KMP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Code01_KMP" />
       <module name="class04" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Code02_ReservoirSampling" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Code02_ReservoirSampling" />
+      <module name="class03" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -93,20 +100,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test" />
-      <module name="class02" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Code02_ReservoirSampling" />
         <item itemvalue="Application.Code01_FindMinKth" />
         <item itemvalue="Application.Code03_IsRotation" />
         <item itemvalue="Application.Code02_TreeEqual" />
         <item itemvalue="Application.Code01_KMP" />
-        <item itemvalue="Application.test" />
       </list>
     </recent_temporary>
   </component>
@@ -125,7 +125,7 @@
       <workItem from="1662386126560" duration="1834000" />
       <workItem from="1662550188987" duration="7161000" />
       <workItem from="1662727851711" duration="3000" />
-      <workItem from="1662795226040" duration="5022000" />
+      <workItem from="1662795226040" duration="7064000" />
     </task>
     <task id="LOCAL-00001" summary="info">
       <created>1662123768579</created>
@@ -309,7 +309,21 @@
       <option name="project" value="LOCAL" />
       <updated>1662796101545</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="info 在arr无序数组中，怎么求第 K 小的数据">
+      <created>1662800346889</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1662800346889</updated>
+    </task>
+    <task id="LOCAL-00028" summary="info">
+      <created>1662800364787</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1662800364787</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -339,11 +353,12 @@
     <MESSAGE value="info 斐波那契数列问题及其变种问题和快速幂" />
     <MESSAGE value="info Code02_ZeroLeftOneStringNumber" />
     <MESSAGE value="info hello world" />
-    <MESSAGE value="info" />
     <MESSAGE value="info KMP算法" />
     <MESSAGE value="info 判断small是否为big的子树" />
     <MESSAGE value="info Code03_IsRotation" />
-    <option name="LAST_COMMIT_MESSAGE" value="info Code03_IsRotation" />
+    <MESSAGE value="info 在arr无序数组中，怎么求第 K 小的数据" />
+    <MESSAGE value="info" />
+    <option name="LAST_COMMIT_MESSAGE" value="info" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
