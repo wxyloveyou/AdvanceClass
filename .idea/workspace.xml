@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ffc1415-200f-4d99-b9cb-9af4e08f3636" name="变更" comment="info 蓄水池算法">
-      <change afterPath="$PROJECT_DIR$/class05/src/Code01_Manacher.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="7ffc1415-200f-4d99-b9cb-9af4e08f3636" name="变更" comment="info Manacher算法">
+      <change afterPath="$PROJECT_DIR$/class05/src/Code02_AddShortestEnd.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -125,7 +123,7 @@
       <workItem from="1662386126560" duration="1834000" />
       <workItem from="1662550188987" duration="7161000" />
       <workItem from="1662727851711" duration="3000" />
-      <workItem from="1662795226040" duration="9615000" />
+      <workItem from="1662795226040" duration="10082000" />
     </task>
     <task id="LOCAL-00001" summary="info">
       <created>1662123768579</created>
@@ -337,7 +335,28 @@
       <option name="project" value="LOCAL" />
       <updated>1662820202647</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="info">
+      <created>1662822705728</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1662822705728</updated>
+    </task>
+    <task id="LOCAL-00032" summary="info Manacher算法">
+      <created>1662822718416</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1662822718416</updated>
+    </task>
+    <task id="LOCAL-00033" summary="info Manacher算法">
+      <created>1662822799971</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1662822799971</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -371,9 +390,10 @@
     <MESSAGE value="info 判断small是否为big的子树" />
     <MESSAGE value="info Code03_IsRotation" />
     <MESSAGE value="info 在arr无序数组中，怎么求第 K 小的数据" />
-    <MESSAGE value="info" />
     <MESSAGE value="info 蓄水池算法" />
-    <option name="LAST_COMMIT_MESSAGE" value="info 蓄水池算法" />
+    <MESSAGE value="info" />
+    <MESSAGE value="info Manacher算法" />
+    <option name="LAST_COMMIT_MESSAGE" value="info Manacher算法" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
