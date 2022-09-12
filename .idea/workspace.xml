@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ffc1415-200f-4d99-b9cb-9af4e08f3636" name="变更" comment="info 一个字符串，在尾部添加最少长度的串使之整体成为最长的回文串">
+    <list default="true" id="7ffc1415-200f-4d99-b9cb-9af4e08f3636" name="变更" comment="info">
+      <change afterPath="$PROJECT_DIR$/class06/src/Code01_MorrisTraversal.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,6 +45,8 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;ToolWindowRun.ShowToolbar&quot;: &quot;false&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;jdk.selected.JAVA_MODULE&quot;: &quot;1.8&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
@@ -62,7 +65,7 @@
       <recent name="E:\Code\JavaCode\Algorithm\AdvanceClass\class02\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Code02_AddShortestEnd">
+  <component name="RunManager" selected="Application.Code01_MorrisTraversal">
     <configuration name="Code01_FindMinKth" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Code01_FindMinKth" />
       <module name="class03" />
@@ -73,6 +76,13 @@
     <configuration name="Code01_Manacher" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Code01_Manacher" />
       <module name="class05" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Code01_MorrisTraversal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Code01_MorrisTraversal" />
+      <module name="class06" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -91,20 +101,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Code03_IsRotation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Code03_IsRotation" />
-      <module name="class04" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Code01_MorrisTraversal" />
         <item itemvalue="Application.Code02_AddShortestEnd" />
         <item itemvalue="Application.Code01_Manacher" />
         <item itemvalue="Application.Code02_ReservoirSampling" />
         <item itemvalue="Application.Code01_FindMinKth" />
-        <item itemvalue="Application.Code03_IsRotation" />
       </list>
     </recent_temporary>
   </component>
@@ -125,6 +128,8 @@
       <workItem from="1662727851711" duration="3000" />
       <workItem from="1662795226040" duration="10147000" />
       <workItem from="1662862344010" duration="1199000" />
+      <workItem from="1662960118525" duration="3358000" />
+      <workItem from="1662969756507" duration="2341000" />
     </task>
     <task id="LOCAL-00001" summary="info">
       <created>1662123768579</created>
@@ -378,7 +383,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662863265692</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="info">
+      <created>1662960391201</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1662960391201</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -414,9 +426,9 @@
     <MESSAGE value="info 在arr无序数组中，怎么求第 K 小的数据" />
     <MESSAGE value="info 蓄水池算法" />
     <MESSAGE value="info Manacher算法" />
-    <MESSAGE value="info" />
     <MESSAGE value="info 一个字符串，在尾部添加最少长度的串使之整体成为最长的回文串" />
-    <option name="LAST_COMMIT_MESSAGE" value="info 一个字符串，在尾部添加最少长度的串使之整体成为最长的回文串" />
+    <MESSAGE value="info" />
+    <option name="LAST_COMMIT_MESSAGE" value="info" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
