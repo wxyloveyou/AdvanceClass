@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ffc1415-200f-4d99-b9cb-9af4e08f3636" name="变更" comment="info Manacher算法">
-      <change afterPath="$PROJECT_DIR$/class05/src/Code02_AddShortestEnd.java" afterDir="false" />
+    <list default="true" id="7ffc1415-200f-4d99-b9cb-9af4e08f3636" name="变更" comment="info 一个字符串，在尾部添加最少长度的串使之整体成为最长的回文串">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,29 +40,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "jdk.selected.JAVA_MODULE": "1.8",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;1.8&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\Code\JavaCode\Algorithm\AdvanceClass\class02\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Code01_Manacher">
+  <component name="RunManager" selected="Application.Code02_AddShortestEnd">
     <configuration name="Code01_FindMinKth" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Code01_FindMinKth" />
       <module name="class03" />
@@ -77,16 +77,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Code02_ReservoirSampling" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Code02_ReservoirSampling" />
-      <module name="class03" />
+    <configuration name="Code02_AddShortestEnd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Code02_AddShortestEnd" />
+      <module name="class05" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Code02_TreeEqual" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Code02_TreeEqual" />
-      <module name="class04" />
+    <configuration name="Code02_ReservoirSampling" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Code02_ReservoirSampling" />
+      <module name="class03" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -100,11 +100,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Code02_AddShortestEnd" />
         <item itemvalue="Application.Code01_Manacher" />
         <item itemvalue="Application.Code02_ReservoirSampling" />
         <item itemvalue="Application.Code01_FindMinKth" />
         <item itemvalue="Application.Code03_IsRotation" />
-        <item itemvalue="Application.Code02_TreeEqual" />
       </list>
     </recent_temporary>
   </component>
@@ -123,7 +123,8 @@
       <workItem from="1662386126560" duration="1834000" />
       <workItem from="1662550188987" duration="7161000" />
       <workItem from="1662727851711" duration="3000" />
-      <workItem from="1662795226040" duration="10082000" />
+      <workItem from="1662795226040" duration="10147000" />
+      <workItem from="1662862344010" duration="1199000" />
     </task>
     <task id="LOCAL-00001" summary="info">
       <created>1662123768579</created>
@@ -356,7 +357,28 @@
       <option name="project" value="LOCAL" />
       <updated>1662822799971</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="info">
+      <created>1662823109142</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1662823109142</updated>
+    </task>
+    <task id="LOCAL-00035" summary="info 一个字符串，在尾部添加最少长度的串使之整体成为最长的回文串">
+      <created>1662823122499</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1662823122499</updated>
+    </task>
+    <task id="LOCAL-00036" summary="info 一个字符串，在尾部添加最少长度的串使之整体成为最长的回文串">
+      <created>1662863265692</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1662863265692</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -391,9 +413,10 @@
     <MESSAGE value="info Code03_IsRotation" />
     <MESSAGE value="info 在arr无序数组中，怎么求第 K 小的数据" />
     <MESSAGE value="info 蓄水池算法" />
-    <MESSAGE value="info" />
     <MESSAGE value="info Manacher算法" />
-    <option name="LAST_COMMIT_MESSAGE" value="info Manacher算法" />
+    <MESSAGE value="info" />
+    <MESSAGE value="info 一个字符串，在尾部添加最少长度的串使之整体成为最长的回文串" />
+    <option name="LAST_COMMIT_MESSAGE" value="info 一个字符串，在尾部添加最少长度的串使之整体成为最长的回文串" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
