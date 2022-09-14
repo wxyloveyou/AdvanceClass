@@ -4,9 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ffc1415-200f-4d99-b9cb-9af4e08f3636" name="变更" comment="info">
-      <change afterPath="$PROJECT_DIR$/class06/src/Code01_MorrisTraversal.java" afterDir="false" />
+    <list default="true" id="7ffc1415-200f-4d99-b9cb-9af4e08f3636" name="变更" comment="info mrrios算法求 二叉树的最小高度问题">
+      <change afterPath="$PROJECT_DIR$/class07/src/Code01_SegmentTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2022_9_7_20_17_[变更]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2022_9_7_20_17___.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AdvanceClass.iml" beforeDir="false" afterPath="$PROJECT_DIR$/AdvanceClass.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,14 +68,7 @@
       <recent name="E:\Code\JavaCode\Algorithm\AdvanceClass\class02\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Code01_MorrisTraversal">
-    <configuration name="Code01_FindMinKth" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Code01_FindMinKth" />
-      <module name="class03" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Code01_SegmentTree">
     <configuration name="Code01_Manacher" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Code01_Manacher" />
       <module name="class05" />
@@ -87,6 +83,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Code01_SegmentTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Code01_SegmentTree" />
+      <module name="AdvanceClass" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Code02_AddShortestEnd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Code02_AddShortestEnd" />
       <module name="class05" />
@@ -94,20 +97,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Code02_ReservoirSampling" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Code02_ReservoirSampling" />
-      <module name="class03" />
+    <configuration name="Code05_MinHeight" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Code05_MinHeight" />
+      <module name="class06" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Code01_SegmentTree" />
+        <item itemvalue="Application.Code05_MinHeight" />
         <item itemvalue="Application.Code01_MorrisTraversal" />
         <item itemvalue="Application.Code02_AddShortestEnd" />
         <item itemvalue="Application.Code01_Manacher" />
-        <item itemvalue="Application.Code02_ReservoirSampling" />
-        <item itemvalue="Application.Code01_FindMinKth" />
       </list>
     </recent_temporary>
   </component>
@@ -129,7 +132,11 @@
       <workItem from="1662795226040" duration="10147000" />
       <workItem from="1662862344010" duration="1199000" />
       <workItem from="1662960118525" duration="3358000" />
-      <workItem from="1662969756507" duration="2341000" />
+      <workItem from="1662969756507" duration="4271000" />
+      <workItem from="1662987661314" duration="22000" />
+      <workItem from="1662987808004" duration="9000" />
+      <workItem from="1663076715285" duration="3572000" />
+      <workItem from="1663163217170" duration="2745000" />
     </task>
     <task id="LOCAL-00001" summary="info">
       <created>1662123768579</created>
@@ -390,7 +397,28 @@
       <option name="project" value="LOCAL" />
       <updated>1662960391201</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="info Morris算法">
+      <created>1662972193737</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1662972193737</updated>
+    </task>
+    <task id="LOCAL-00039" summary="info">
+      <created>1662972202080</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1662972202080</updated>
+    </task>
+    <task id="LOCAL-00040" summary="info mrrios算法求 二叉树的最小高度问题">
+      <created>1662974038587</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1662974038587</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -427,8 +455,10 @@
     <MESSAGE value="info 蓄水池算法" />
     <MESSAGE value="info Manacher算法" />
     <MESSAGE value="info 一个字符串，在尾部添加最少长度的串使之整体成为最长的回文串" />
+    <MESSAGE value="info Morris算法" />
     <MESSAGE value="info" />
-    <option name="LAST_COMMIT_MESSAGE" value="info" />
+    <MESSAGE value="info mrrios算法求 二叉树的最小高度问题" />
+    <option name="LAST_COMMIT_MESSAGE" value="info mrrios算法求 二叉树的最小高度问题" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
