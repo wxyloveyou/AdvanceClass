@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ffc1415-200f-4d99-b9cb-9af4e08f3636" name="变更" comment="info mrrios算法求 二叉树的最小高度问题">
-      <change afterPath="$PROJECT_DIR$/class07/src/Code01_SegmentTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2022_9_7_20_17_[变更]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2022_9_7_20_17___.xml" beforeDir="false" />
+    <list default="true" id="7ffc1415-200f-4d99-b9cb-9af4e08f3636" name="变更" comment="info">
+      <change afterPath="$PROJECT_DIR$/class07/src/Code01_CoverMax.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AdvanceClass.iml" beforeDir="false" afterPath="$PROJECT_DIR$/AdvanceClass.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +29,17 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://D:/Develop_software/JDk/JDK1.8/src.zip!/java/lang/ArrayIndexOutOfBoundsException.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/class03/src/Code02_ReservoirSampling.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/class05/class05.iml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/class05/src/Code01_Manacher.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/class05/src/Code02_AddShortestEnd.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/class06/src/Code01_MorrisTraversal.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/class06/src/Code05_MinHeight.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/class07/src/Code01_CoverMax.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/class07/src/Code01_SegmentTree.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -64,14 +72,17 @@
   }
 }</component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="line" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\Code\JavaCode\Algorithm\AdvanceClass\class02\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Code01_SegmentTree">
-    <configuration name="Code01_Manacher" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Code01_Manacher" />
-      <module name="class05" />
+  <component name="RunManager" selected="Application.Code01_CoverMax">
+    <configuration name="Code01_CoverMax" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Code01_CoverMax" />
+      <module name="AdvanceClass" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -106,11 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Code01_CoverMax" />
         <item itemvalue="Application.Code01_SegmentTree" />
         <item itemvalue="Application.Code05_MinHeight" />
         <item itemvalue="Application.Code01_MorrisTraversal" />
         <item itemvalue="Application.Code02_AddShortestEnd" />
-        <item itemvalue="Application.Code01_Manacher" />
       </list>
     </recent_temporary>
   </component>
@@ -136,7 +147,7 @@
       <workItem from="1662987661314" duration="22000" />
       <workItem from="1662987808004" duration="9000" />
       <workItem from="1663076715285" duration="3572000" />
-      <workItem from="1663163217170" duration="2745000" />
+      <workItem from="1663163217170" duration="5071000" />
     </task>
     <task id="LOCAL-00001" summary="info">
       <created>1662123768579</created>
@@ -418,7 +429,21 @@
       <option name="project" value="LOCAL" />
       <updated>1662974038587</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="info 线段树">
+      <created>1663166134307</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1663166134307</updated>
+    </task>
+    <task id="LOCAL-00042" summary="info">
+      <created>1663166146136</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1663166146136</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -456,9 +481,10 @@
     <MESSAGE value="info Manacher算法" />
     <MESSAGE value="info 一个字符串，在尾部添加最少长度的串使之整体成为最长的回文串" />
     <MESSAGE value="info Morris算法" />
-    <MESSAGE value="info" />
     <MESSAGE value="info mrrios算法求 二叉树的最小高度问题" />
-    <option name="LAST_COMMIT_MESSAGE" value="info mrrios算法求 二叉树的最小高度问题" />
+    <MESSAGE value="info 线段树" />
+    <MESSAGE value="info" />
+    <option name="LAST_COMMIT_MESSAGE" value="info" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
