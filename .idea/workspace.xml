@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ffc1415-200f-4d99-b9cb-9af4e08f3636" name="变更" comment="info">
-      <change afterPath="$PROJECT_DIR$/class07/src/Code01_CoverMax.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="7ffc1415-200f-4d99-b9cb-9af4e08f3636" name="变更" comment="info" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -147,7 +144,7 @@
       <workItem from="1662987661314" duration="22000" />
       <workItem from="1662987808004" duration="9000" />
       <workItem from="1663076715285" duration="3572000" />
-      <workItem from="1663163217170" duration="5071000" />
+      <workItem from="1663163217170" duration="5114000" />
     </task>
     <task id="LOCAL-00001" summary="info">
       <created>1662123768579</created>
@@ -443,7 +440,21 @@
       <option name="project" value="LOCAL" />
       <updated>1663166146136</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="info 最长线段覆盖">
+      <created>1663168517841</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1663168517841</updated>
+    </task>
+    <task id="LOCAL-00044" summary="info">
+      <created>1663168525118</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1663168525118</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -483,6 +494,7 @@
     <MESSAGE value="info Morris算法" />
     <MESSAGE value="info mrrios算法求 二叉树的最小高度问题" />
     <MESSAGE value="info 线段树" />
+    <MESSAGE value="info 最长线段覆盖" />
     <MESSAGE value="info" />
     <option name="LAST_COMMIT_MESSAGE" value="info" />
   </component>
