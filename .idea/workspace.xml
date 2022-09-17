@@ -4,14 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ffc1415-200f-4d99-b9cb-9af4e08f3636" name="变更" comment="info">
-      <change afterPath="$PROJECT_DIR$/class06/src/Code01_CoverMax.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/class06/src/Code01_SegmentTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/class07/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/class08/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="7ffc1415-200f-4d99-b9cb-9af4e08f3636" name="变更" comment="info Code02_FallingSquares">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/class07/class07.iml" beforeDir="false" afterPath="$PROJECT_DIR$/class08/class08.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -164,13 +158,7 @@
       <workItem from="1663163217170" duration="5114000" />
       <workItem from="1663414349044" duration="850000" />
       <workItem from="1663415215223" duration="290000" />
-    </task>
-    <task id="LOCAL-00001" summary="info">
-      <created>1662123768579</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1662123768579</updated>
+      <workItem from="1663415535407" duration="2731000" />
     </task>
     <task id="LOCAL-00002" summary="info 滑动窗口的数组最大值">
       <created>1662123784149</created>
@@ -487,7 +475,35 @@
       <option name="project" value="LOCAL" />
       <updated>1663414614875</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="info">
+      <created>1663415812063</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1663415812063</updated>
+    </task>
+    <task id="LOCAL-00048" summary="info 最长线段覆盖">
+      <created>1663415831011</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1663415831011</updated>
+    </task>
+    <task id="LOCAL-00049" summary="info 线段树">
+      <created>1663415841206</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1663415841206</updated>
+    </task>
+    <task id="LOCAL-00050" summary="info Code02_FallingSquares">
+      <created>1663417688097</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1663417688097</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -526,10 +542,11 @@
     <MESSAGE value="info 一个字符串，在尾部添加最少长度的串使之整体成为最长的回文串" />
     <MESSAGE value="info Morris算法" />
     <MESSAGE value="info mrrios算法求 二叉树的最小高度问题" />
-    <MESSAGE value="info 线段树" />
-    <MESSAGE value="info 最长线段覆盖" />
     <MESSAGE value="info" />
-    <option name="LAST_COMMIT_MESSAGE" value="info" />
+    <MESSAGE value="info 最长线段覆盖" />
+    <MESSAGE value="info 线段树" />
+    <MESSAGE value="info Code02_FallingSquares" />
+    <option name="LAST_COMMIT_MESSAGE" value="info Code02_FallingSquares" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
