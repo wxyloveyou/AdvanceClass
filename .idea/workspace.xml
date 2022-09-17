@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ffc1415-200f-4d99-b9cb-9af4e08f3636" name="变更" comment="info" />
+    <list default="true" id="7ffc1415-200f-4d99-b9cb-9af4e08f3636" name="变更" comment="info">
+      <change afterPath="$PROJECT_DIR$/class06/src/Code01_CoverMax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class06/src/Code01_SegmentTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class07/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class08/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/class07/class07.iml" beforeDir="false" afterPath="$PROJECT_DIR$/class08/class08.iml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,8 +43,6 @@
     <setting file="file://$PROJECT_DIR$/class05/src/Code02_AddShortestEnd.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/class06/src/Code01_MorrisTraversal.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/class06/src/Code05_MinHeight.java" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/class07/src/Code01_CoverMax.java" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/class07/src/Code01_SegmentTree.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -57,14 +63,15 @@
     &quot;ToolWindowRun.ShowToolbar&quot;: &quot;false&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;jdk.selected.JAVA_MODULE&quot;: &quot;1.8&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/Code/JavaCode/Algorithm/AdvanceClass/class07&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
@@ -72,53 +79,63 @@
     <key name="CreateClassDialog.RecentsKey">
       <recent name="line" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Code\JavaCode\Algorithm\AdvanceClass\class07" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\Code\JavaCode\Algorithm\AdvanceClass\class02\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Code01_CoverMax">
+  <component name="RunManager" selected="Application.Main (1)">
     <configuration name="Code01_CoverMax" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Code01_CoverMax" />
-      <module name="AdvanceClass" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Code01_MorrisTraversal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Code01_MorrisTraversal" />
-      <module name="class06" />
+      <module name="class07" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="Code01_SegmentTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Code01_SegmentTree" />
-      <module name="AdvanceClass" />
+      <module name="class07" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Code02_AddShortestEnd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Code02_AddShortestEnd" />
-      <module name="class05" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Code05_MinHeight" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Code05_MinHeight" />
+    <configuration name="Code01_SegmentTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Code01_SegmentTree" />
       <module name="class06" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="class08" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="class07" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test" />
+      <module name="class07_1" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Code01_CoverMax" />
         <item itemvalue="Application.Code01_SegmentTree" />
-        <item itemvalue="Application.Code05_MinHeight" />
-        <item itemvalue="Application.Code01_MorrisTraversal" />
-        <item itemvalue="Application.Code02_AddShortestEnd" />
+        <item itemvalue="Application.test" />
       </list>
     </recent_temporary>
   </component>
@@ -145,6 +162,8 @@
       <workItem from="1662987808004" duration="9000" />
       <workItem from="1663076715285" duration="3572000" />
       <workItem from="1663163217170" duration="5114000" />
+      <workItem from="1663414349044" duration="850000" />
+      <workItem from="1663415215223" duration="290000" />
     </task>
     <task id="LOCAL-00001" summary="info">
       <created>1662123768579</created>
@@ -454,7 +473,21 @@
       <option name="project" value="LOCAL" />
       <updated>1663168525118</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="info">
+      <created>1663414394587</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1663414394587</updated>
+    </task>
+    <task id="LOCAL-00046" summary="info">
+      <created>1663414614875</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1663414614875</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
