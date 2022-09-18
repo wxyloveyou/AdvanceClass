@@ -4,20 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ffc1415-200f-4d99-b9cb-9af4e08f3636" name="变更" comment="info 矩形覆盖">
-      <change afterPath="$PROJECT_DIR$/trainingcamp001/camp01_class01/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingcamp001/camp01_class02/src/Main.java" afterDir="false" />
+    <list default="true" id="7ffc1415-200f-4d99-b9cb-9af4e08f3636" name="变更" comment="info Morris算法">
+      <change afterPath="$PROJECT_DIR$/trainingcamp001/camp01_class01/src/Code02_AllLessNumSubArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trainingcamp001/camp01_class01/src/Code03_MonotonousStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trainingcamp001/camp01_class01/src/Code04_AllTimesMinToMax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trainingcamp001/camp01_class01/src/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trainingcamp001/camp01_class02/src/Code02_ZeroLeftOneStringNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trainingcamp001/camp01_class03/src/Code02_ReservoirSampling.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/trainingcamp001/camp01_class03/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingcamp001/camp01_class04/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingcamp001/camp01_class05/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingcamp001/camp01_class06/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingcamp001/camp01_class07/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trainingcamp001/camp01_class04/src/Code02_TreeEqual.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trainingcamp001/camp01_class04/src/Code03_IsRotation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trainingcamp001/camp01_class05/src/Code02_AddShortestEnd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trainingcamp001/camp01_class06/src/Code05_MinHeight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trainingcamp001/camp01_class07/src/Code01_SegmentTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trainingcamp001/camp01_class07/src/Code02_FallingSquares.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trainingcamp001/camp01_class07/src/Code04_CoverMax.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/trainingcamp001/camp01_class08/src/Main.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/trainingcamp001/src/Main.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/trainingcamp002/camp02_class01/src/Main.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/trainingcamp002/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +74,7 @@
     "ToolWindowRun.ShowToolbar": "false",
     "WebServerToolWindowFactoryState": "false",
     "jdk.selected.JAVA_MODULE": "1.8",
-    "last_opened_file_path": "E:/Code/JavaCode/Algorithm/AdvanceClass/trainingcamp001",
+    "last_opened_file_path": "E:/Code/JavaCode/Algorithm/AdvanceClass/trainingcamp001/camp01_class07/src",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -175,63 +180,7 @@
       <workItem from="1663414349044" duration="850000" />
       <workItem from="1663415215223" duration="290000" />
       <workItem from="1663415535407" duration="5280000" />
-      <workItem from="1663479286071" duration="414000" />
-    </task>
-    <task id="LOCAL-00004" summary="info Code03_MonotonousStack">
-      <created>1662127969291</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1662127969291</updated>
-    </task>
-    <task id="LOCAL-00005" summary="info 单调栈&#10;数组中的某一个数，找到左右离它最近且小于它的数">
-      <created>1662273680015</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1662273680015</updated>
-    </task>
-    <task id="LOCAL-00006" summary="info">
-      <created>1662273784730</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1662273784730</updated>
-    </task>
-    <task id="LOCAL-00007" summary="info Code04_AllTimesMinToMax">
-      <created>1662292916213</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1662292916213</updated>
-    </task>
-    <task id="LOCAL-00008" summary="info 跳马问题">
-      <created>1662293738611</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1662293738611</updated>
-    </task>
-    <task id="LOCAL-00009" summary="info">
-      <created>1662294098506</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1662294098506</updated>
-    </task>
-    <task id="LOCAL-00010" summary="info 斐波那契数列问题">
-      <created>1662294404318</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1662294404318</updated>
-    </task>
-    <task id="LOCAL-00011" summary="info 斐波那契数列问题">
-      <created>1662294533439</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1662294533439</updated>
+      <workItem from="1663479286071" duration="839000" />
     </task>
     <task id="LOCAL-00012" summary="info 斐波那契数列问题">
       <created>1662294755049</created>
@@ -520,7 +469,63 @@
       <option name="project" value="LOCAL" />
       <updated>1663419981529</updated>
     </task>
-    <option name="localTasksCounter" value="53" />
+    <task id="LOCAL-00053" summary="info 矩形覆盖">
+      <created>1663480006485</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1663480006485</updated>
+    </task>
+    <task id="LOCAL-00054" summary="info 滑动窗口的数组最大值">
+      <created>1663480051466</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1663480051466</updated>
+    </task>
+    <task id="LOCAL-00055" summary="info 最长线段覆盖">
+      <created>1663480066983</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1663480066983</updated>
+    </task>
+    <task id="LOCAL-00056" summary="info 斐波那契数列">
+      <created>1663480080612</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1663480080612</updated>
+    </task>
+    <task id="LOCAL-00057" summary="info 在arr无序数组中，怎么求第 K 小的数据">
+      <created>1663480093646</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1663480093646</updated>
+    </task>
+    <task id="LOCAL-00058" summary="info KMP算法">
+      <created>1663480103516</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1663480103516</updated>
+    </task>
+    <task id="LOCAL-00059" summary="info Manacher算法">
+      <created>1663480112618</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1663480112618</updated>
+    </task>
+    <task id="LOCAL-00060" summary="info Morris算法">
+      <created>1663480128138</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1663480128138</updated>
+    </task>
+    <option name="localTasksCounter" value="61" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -538,32 +543,32 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="info 所有小于Num的数的子数组的数量" />
     <MESSAGE value="info Code03_MonotonousStack" />
     <MESSAGE value="info 单调栈&#10;数组中的某一个数，找到左右离它最近且小于它的数" />
     <MESSAGE value="info Code04_AllTimesMinToMax" />
     <MESSAGE value="info 跳马问题" />
     <MESSAGE value="info 斐波那契数列问题" />
     <MESSAGE value="info 斐波那契数列问题 FibonacciProblem" />
-    <MESSAGE value="info 斐波那契数列" />
     <MESSAGE value="info 斐波那契数列问题及其变种问题和快速幂" />
     <MESSAGE value="info Code02_ZeroLeftOneStringNumber" />
     <MESSAGE value="info hello world" />
-    <MESSAGE value="info KMP算法" />
     <MESSAGE value="info 判断small是否为big的子树" />
     <MESSAGE value="info Code03_IsRotation" />
-    <MESSAGE value="info 在arr无序数组中，怎么求第 K 小的数据" />
     <MESSAGE value="info 蓄水池算法" />
-    <MESSAGE value="info Manacher算法" />
     <MESSAGE value="info 一个字符串，在尾部添加最少长度的串使之整体成为最长的回文串" />
-    <MESSAGE value="info Morris算法" />
     <MESSAGE value="info mrrios算法求 二叉树的最小高度问题" />
-    <MESSAGE value="info 最长线段覆盖" />
     <MESSAGE value="info 线段树" />
     <MESSAGE value="info Code02_FallingSquares" />
     <MESSAGE value="info" />
     <MESSAGE value="info 矩形覆盖" />
-    <option name="LAST_COMMIT_MESSAGE" value="info 矩形覆盖" />
+    <MESSAGE value="info 滑动窗口的数组最大值" />
+    <MESSAGE value="info 最长线段覆盖" />
+    <MESSAGE value="info 斐波那契数列" />
+    <MESSAGE value="info 在arr无序数组中，怎么求第 K 小的数据" />
+    <MESSAGE value="info KMP算法" />
+    <MESSAGE value="info Manacher算法" />
+    <MESSAGE value="info Morris算法" />
+    <option name="LAST_COMMIT_MESSAGE" value="info Morris算法" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
