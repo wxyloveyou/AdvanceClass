@@ -4,8 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ffc1415-200f-4d99-b9cb-9af4e08f3636" name="变更" comment="info">
-      <change afterPath="$PROJECT_DIR$/class07/src/Code04_CoverMax.java" afterDir="false" />
+    <list default="true" id="7ffc1415-200f-4d99-b9cb-9af4e08f3636" name="变更" comment="info 矩形覆盖">
+      <change afterPath="$PROJECT_DIR$/trainingcamp001/camp01_class01/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trainingcamp001/camp01_class02/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trainingcamp001/camp01_class03/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trainingcamp001/camp01_class04/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trainingcamp001/camp01_class05/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trainingcamp001/camp01_class06/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trainingcamp001/camp01_class07/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trainingcamp001/camp01_class08/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trainingcamp001/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trainingcamp002/camp02_class01/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trainingcamp002/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,47 +61,44 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;ToolWindowRun.ShowToolbar&quot;: &quot;false&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;1.8&quot;,
-    &quot;last_opened_file_path&quot;: &quot;E:/Code/JavaCode/Algorithm/AdvanceClass/class07&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "ToolWindowRun.ShowToolbar": "false",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "1.8",
+    "last_opened_file_path": "E:/Code/JavaCode/Algorithm/AdvanceClass/trainingcamp001",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="line" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\Code\JavaCode\Algorithm\AdvanceClass\class07" />
+      <recent name="E:\Code\JavaCode\Algorithm\AdvanceClass\trainingcamp001\camp01_class07\src" />
+      <recent name="E:\Code\JavaCode\Algorithm\AdvanceClass\trainingcamp001\camp01_class06\src" />
+      <recent name="E:\Code\JavaCode\Algorithm\AdvanceClass\trainingcamp001\camp01_class05\src" />
+      <recent name="E:\Code\JavaCode\Algorithm\AdvanceClass\trainingcamp001\camp01_class04\src" />
+      <recent name="E:\Code\JavaCode\Algorithm\AdvanceClass\trainingcamp001\camp01_class03\src" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\Code\JavaCode\Algorithm\AdvanceClass\class02\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main (1)">
+  <component name="RunManager" selected="Application.Code01_SlidingWindowMaxArray">
     <configuration name="Code01_CoverMax" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Code01_CoverMax" />
-      <module name="class07" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Code01_SegmentTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Code01_SegmentTree" />
       <module name="class07" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -103,9 +111,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Code01_SlidingWindowMaxArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Code01_SlidingWindowMaxArray" />
+      <module name="camp01_class01" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="class08" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="camp01_class01" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -117,20 +139,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test" />
-      <module name="class07_1" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Code01_SlidingWindowMaxArray" />
+        <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Code01_CoverMax" />
-        <item itemvalue="Application.Code01_SegmentTree" />
-        <item itemvalue="Application.test" />
       </list>
     </recent_temporary>
   </component>
@@ -159,14 +174,8 @@
       <workItem from="1663163217170" duration="5114000" />
       <workItem from="1663414349044" duration="850000" />
       <workItem from="1663415215223" duration="290000" />
-      <workItem from="1663415535407" duration="4048000" />
-    </task>
-    <task id="LOCAL-00003" summary="info 所有小于Num的数的子数组的数量">
-      <created>1662126493928</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1662126493928</updated>
+      <workItem from="1663415535407" duration="5280000" />
+      <workItem from="1663479286071" duration="414000" />
     </task>
     <task id="LOCAL-00004" summary="info Code03_MonotonousStack">
       <created>1662127969291</created>
@@ -504,7 +513,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663418626748</updated>
     </task>
-    <option name="localTasksCounter" value="52" />
+    <task id="LOCAL-00052" summary="info 矩形覆盖">
+      <created>1663419981529</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1663419981529</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -522,7 +538,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="info 滑动窗口的数组最大值" />
     <MESSAGE value="info 所有小于Num的数的子数组的数量" />
     <MESSAGE value="info Code03_MonotonousStack" />
     <MESSAGE value="info 单调栈&#10;数组中的某一个数，找到左右离它最近且小于它的数" />
@@ -547,7 +562,8 @@
     <MESSAGE value="info 线段树" />
     <MESSAGE value="info Code02_FallingSquares" />
     <MESSAGE value="info" />
-    <option name="LAST_COMMIT_MESSAGE" value="info" />
+    <MESSAGE value="info 矩形覆盖" />
+    <option name="LAST_COMMIT_MESSAGE" value="info 矩形覆盖" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
