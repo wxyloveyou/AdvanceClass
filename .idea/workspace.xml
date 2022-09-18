@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ffc1415-200f-4d99-b9cb-9af4e08f3636" name="变更" comment="info">
-      <change afterPath="$PROJECT_DIR$/trainingcamp001/camp01_class03/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingcamp002/camp02_class01/src/Code01_AppleMinBags.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingcamp002/src/Main.java" afterDir="false" />
+    <list default="true" id="7ffc1415-200f-4d99-b9cb-9af4e08f3636" name="变更" comment="info 是否是连续数的和问题">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -81,7 +78,7 @@
       <recent name="E:\Code\JavaCode\Algorithm\AdvanceClass\class02\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Code01_AppleMinBags">
+  <component name="RunManager" selected="Application.Code03_MSumToN">
     <configuration name="Code01_AppleMinBags" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Code01_AppleMinBags" />
       <module name="camp02_class01" />
@@ -103,16 +100,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="class08" />
+    <configuration name="Code02_EatGrass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Code02_EatGrass" />
+      <module name="camp02_class01" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="camp01_class01" />
+    <configuration name="Code03_MSumToN" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Code03_MSumToN" />
+      <module name="camp02_class01" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -126,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Code03_MSumToN" />
+        <item itemvalue="Application.Code02_EatGrass" />
         <item itemvalue="Application.Code01_AppleMinBags" />
         <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Code01_SlidingWindowMaxArray" />
-        <item itemvalue="Application.Main (2)" />
-        <item itemvalue="Application.Main (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -160,35 +157,7 @@
       <workItem from="1663414349044" duration="850000" />
       <workItem from="1663415215223" duration="290000" />
       <workItem from="1663415535407" duration="5280000" />
-      <workItem from="1663479286071" duration="2355000" />
-    </task>
-    <task id="LOCAL-00027" summary="info 在arr无序数组中，怎么求第 K 小的数据">
-      <created>1662800346889</created>
-      <option name="number" value="00027" />
-      <option name="presentableId" value="LOCAL-00027" />
-      <option name="project" value="LOCAL" />
-      <updated>1662800346889</updated>
-    </task>
-    <task id="LOCAL-00028" summary="info">
-      <created>1662800364787</created>
-      <option name="number" value="00028" />
-      <option name="presentableId" value="LOCAL-00028" />
-      <option name="project" value="LOCAL" />
-      <updated>1662800364787</updated>
-    </task>
-    <task id="LOCAL-00029" summary="info 蓄水池算法">
-      <created>1662820081550</created>
-      <option name="number" value="00029" />
-      <option name="presentableId" value="LOCAL-00029" />
-      <option name="project" value="LOCAL" />
-      <updated>1662820081550</updated>
-    </task>
-    <task id="LOCAL-00030" summary="info 蓄水池算法">
-      <created>1662820202647</created>
-      <option name="number" value="00030" />
-      <option name="presentableId" value="LOCAL-00030" />
-      <option name="project" value="LOCAL" />
-      <updated>1662820202647</updated>
+      <workItem from="1663479286071" duration="4694000" />
     </task>
     <task id="LOCAL-00031" summary="info">
       <created>1662822705728</created>
@@ -505,7 +474,35 @@
       <option name="project" value="LOCAL" />
       <updated>1663480542492</updated>
     </task>
-    <option name="localTasksCounter" value="76" />
+    <task id="LOCAL-00076" summary="info 使用最少袋子问题">
+      <created>1663481680911</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1663481680911</updated>
+    </task>
+    <task id="LOCAL-00077" summary="info main">
+      <created>1663481702102</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1663481702102</updated>
+    </task>
+    <task id="LOCAL-00078" summary="info 吃草问题">
+      <created>1663482673769</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1663482673769</updated>
+    </task>
+    <task id="LOCAL-00079" summary="info 是否是连续数的和问题">
+      <created>1663483931320</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1663483931320</updated>
+    </task>
+    <option name="localTasksCounter" value="80" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -523,10 +520,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="info 斐波那契数列问题 FibonacciProblem" />
-    <MESSAGE value="info 斐波那契数列问题及其变种问题和快速幂" />
-    <MESSAGE value="info hello world" />
-    <MESSAGE value="info 线段树" />
     <MESSAGE value="info 滑动窗口的数组最大值" />
     <MESSAGE value="info 最长线段覆盖" />
     <MESSAGE value="info 斐波那契数列" />
@@ -548,7 +541,11 @@
     <MESSAGE value="info mrrios算法求 二叉树的最小高度问题" />
     <MESSAGE value="info 跳马问题，" />
     <MESSAGE value="info" />
-    <option name="LAST_COMMIT_MESSAGE" value="info" />
+    <MESSAGE value="info 使用最少袋子问题" />
+    <MESSAGE value="info main" />
+    <MESSAGE value="info 吃草问题" />
+    <MESSAGE value="info 是否是连续数的和问题" />
+    <option name="LAST_COMMIT_MESSAGE" value="info 是否是连续数的和问题" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -557,6 +554,11 @@
           <url>file://$PROJECT_DIR$/class02/src/Code01_FibonacciProblem.java</url>
           <line>25</line>
           <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/trainingcamp002/camp02_class01/src/Code03_MSumToN.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
