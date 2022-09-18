@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ffc1415-200f-4d99-b9cb-9af4e08f3636" name="变更" comment="info">
-      <change afterPath="$PROJECT_DIR$/trainingcamp002/camp02_class01/src/Code04_RotateMatrix.java" afterDir="false" />
+    <list default="true" id="7ffc1415-200f-4d99-b9cb-9af4e08f3636" name="变更" comment="info 原地旋转一个正方形矩阵">
+      <change afterPath="$PROJECT_DIR$/trainingcamp002/camp02_class01/src/Code05_PrintMatrixSpiralOrder.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -79,17 +79,10 @@
       <recent name="E:\Code\JavaCode\Algorithm\AdvanceClass\class02\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Code04_RotateMatrix">
+  <component name="RunManager" selected="Application.Code05_PrintMatrixSpiralOrder">
     <configuration name="Code01_SegmentTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Code01_SegmentTree" />
       <module name="class06" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Code02_EatGrass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Code02_EatGrass" />
-      <module name="camp02_class01" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -103,6 +96,13 @@
     </configuration>
     <configuration name="Code04_RotateMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Code04_RotateMatrix" />
+      <module name="camp02_class01" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Code05_PrintMatrixSpiralOrder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Code05_PrintMatrixSpiralOrder" />
       <module name="camp02_class01" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -124,11 +124,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Code05_PrintMatrixSpiralOrder" />
         <item itemvalue="Application.Code04_RotateMatrix" />
         <item itemvalue="Application.test (1)" />
         <item itemvalue="Application.test" />
         <item itemvalue="Application.Code03_MSumToN" />
-        <item itemvalue="Application.Code02_EatGrass" />
       </list>
     </recent_temporary>
   </component>
@@ -158,14 +158,7 @@
       <workItem from="1663414349044" duration="850000" />
       <workItem from="1663415215223" duration="290000" />
       <workItem from="1663415535407" duration="5280000" />
-      <workItem from="1663479286071" duration="6127000" />
-    </task>
-    <task id="LOCAL-00034" summary="info">
-      <created>1662823109142</created>
-      <option name="number" value="00034" />
-      <option name="presentableId" value="LOCAL-00034" />
-      <option name="project" value="LOCAL" />
-      <updated>1662823109142</updated>
+      <workItem from="1663479286071" duration="7966000" />
     </task>
     <task id="LOCAL-00035" summary="info 一个字符串，在尾部添加最少长度的串使之整体成为最长的回文串">
       <created>1662823122499</created>
@@ -503,7 +496,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663484195067</updated>
     </task>
-    <option name="localTasksCounter" value="83" />
+    <task id="LOCAL-00083" summary="info 原地旋转一个正方形矩阵">
+      <created>1663486152448</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1663486152448</updated>
+    </task>
+    <option name="localTasksCounter" value="84" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -521,7 +521,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="info 滑动窗口的数组最大值" />
     <MESSAGE value="info 最长线段覆盖" />
     <MESSAGE value="info 斐波那契数列" />
     <MESSAGE value="info 在arr无序数组中，怎么求第 K 小的数据" />
@@ -546,7 +545,8 @@
     <MESSAGE value="info 吃草问题" />
     <MESSAGE value="info 是否是连续数的和问题" />
     <MESSAGE value="info" />
-    <option name="LAST_COMMIT_MESSAGE" value="info" />
+    <MESSAGE value="info 原地旋转一个正方形矩阵" />
+    <option name="LAST_COMMIT_MESSAGE" value="info 原地旋转一个正方形矩阵" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
