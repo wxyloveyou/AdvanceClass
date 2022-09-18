@@ -78,7 +78,7 @@
       <recent name="E:\Code\JavaCode\Algorithm\AdvanceClass\class02\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Code03_MSumToN">
+  <component name="RunManager" selected="Application.test">
     <configuration name="Code01_AppleMinBags" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Code01_AppleMinBags" />
       <module name="camp02_class01" />
@@ -89,13 +89,6 @@
     <configuration name="Code01_SegmentTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Code01_SegmentTree" />
       <module name="class06" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Code01_SlidingWindowMaxArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Code01_SlidingWindowMaxArray" />
-      <module name="camp01_class01" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -121,13 +114,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test" />
+      <module name="trainingcamp001" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.test" />
         <item itemvalue="Application.Code03_MSumToN" />
         <item itemvalue="Application.Code02_EatGrass" />
         <item itemvalue="Application.Code01_AppleMinBags" />
         <item itemvalue="Application.Main (3)" />
-        <item itemvalue="Application.Code01_SlidingWindowMaxArray" />
       </list>
     </recent_temporary>
   </component>
