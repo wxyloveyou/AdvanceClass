@@ -4,23 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ffc1415-200f-4d99-b9cb-9af4e08f3636" name="变更" comment="info Morris算法">
-      <change afterPath="$PROJECT_DIR$/trainingcamp001/camp01_class01/src/Code02_AllLessNumSubArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingcamp001/camp01_class01/src/Code03_MonotonousStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingcamp001/camp01_class01/src/Code04_AllTimesMinToMax.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingcamp001/camp01_class01/src/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingcamp001/camp01_class02/src/Code02_ZeroLeftOneStringNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingcamp001/camp01_class03/src/Code02_ReservoirSampling.java" afterDir="false" />
+    <list default="true" id="7ffc1415-200f-4d99-b9cb-9af4e08f3636" name="变更" comment="info 跳马问题，">
       <change afterPath="$PROJECT_DIR$/trainingcamp001/camp01_class03/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingcamp001/camp01_class04/src/Code02_TreeEqual.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingcamp001/camp01_class04/src/Code03_IsRotation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingcamp001/camp01_class05/src/Code02_AddShortestEnd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingcamp001/camp01_class06/src/Code05_MinHeight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingcamp001/camp01_class07/src/Code01_SegmentTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingcamp001/camp01_class07/src/Code02_FallingSquares.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingcamp001/camp01_class07/src/Code04_CoverMax.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingcamp001/camp01_class08/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingcamp001/src/Main.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/trainingcamp002/camp02_class01/src/Main.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/trainingcamp002/src/Main.java" afterDir="false" />
     </list>
@@ -180,105 +165,7 @@
       <workItem from="1663414349044" duration="850000" />
       <workItem from="1663415215223" duration="290000" />
       <workItem from="1663415535407" duration="5280000" />
-      <workItem from="1663479286071" duration="839000" />
-    </task>
-    <task id="LOCAL-00012" summary="info 斐波那契数列问题">
-      <created>1662294755049</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1662294755049</updated>
-    </task>
-    <task id="LOCAL-00013" summary="info 斐波那契数列问题">
-      <created>1662294821406</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1662294821406</updated>
-    </task>
-    <task id="LOCAL-00014" summary="info 斐波那契数列问题">
-      <created>1662296693717</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1662296693717</updated>
-    </task>
-    <task id="LOCAL-00015" summary="info 斐波那契数列问题 FibonacciProblem">
-      <created>1662296850146</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1662296850146</updated>
-    </task>
-    <task id="LOCAL-00016" summary="info 斐波那契数列问题 FibonacciProblem">
-      <created>1662296969564</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1662296969564</updated>
-    </task>
-    <task id="LOCAL-00017" summary="info 斐波那契数列">
-      <created>1662297270804</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1662297270804</updated>
-    </task>
-    <task id="LOCAL-00018" summary="info 斐波那契数列问题及其变种问题和快速幂">
-      <created>1662298378152</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1662298378152</updated>
-    </task>
-    <task id="LOCAL-00019" summary="info">
-      <created>1662298434758</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1662298434758</updated>
-    </task>
-    <task id="LOCAL-00020" summary="info Code02_ZeroLeftOneStringNumber">
-      <created>1662387665596</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1662387665596</updated>
-    </task>
-    <task id="LOCAL-00021" summary="info hello world">
-      <created>1662387854697</created>
-      <option name="number" value="00021" />
-      <option name="presentableId" value="LOCAL-00021" />
-      <option name="project" value="LOCAL" />
-      <updated>1662387854697</updated>
-    </task>
-    <task id="LOCAL-00022" summary="info hello world">
-      <created>1662387912401</created>
-      <option name="number" value="00022" />
-      <option name="presentableId" value="LOCAL-00022" />
-      <option name="project" value="LOCAL" />
-      <updated>1662387912401</updated>
-    </task>
-    <task id="LOCAL-00023" summary="info">
-      <created>1662552951702</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL-00023" />
-      <option name="project" value="LOCAL" />
-      <updated>1662552951702</updated>
-    </task>
-    <task id="LOCAL-00024" summary="info KMP算法">
-      <created>1662553986396</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1662553986396</updated>
-    </task>
-    <task id="LOCAL-00025" summary="info 判断small是否为big的子树">
-      <created>1662557514401</created>
-      <option name="number" value="00025" />
-      <option name="presentableId" value="LOCAL-00025" />
-      <option name="project" value="LOCAL" />
-      <updated>1662557514401</updated>
+      <workItem from="1663479286071" duration="1182000" />
     </task>
     <task id="LOCAL-00026" summary="info Code03_IsRotation">
       <created>1662796101545</created>
@@ -525,7 +412,105 @@
       <option name="project" value="LOCAL" />
       <updated>1663480128138</updated>
     </task>
-    <option name="localTasksCounter" value="61" />
+    <task id="LOCAL-00061" summary="info线段树">
+      <created>1663480143464</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1663480143464</updated>
+    </task>
+    <task id="LOCAL-00062" summary="info 一个字符串，在尾部添加最少长度的串使之整体成为最长的回文串">
+      <created>1663480162463</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1663480162463</updated>
+    </task>
+    <task id="LOCAL-00063" summary="info 所有小于Num的数的子数组的数量">
+      <created>1663480176775</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1663480176775</updated>
+    </task>
+    <task id="LOCAL-00064" summary="info Code02_FallingSquares">
+      <created>1663480187513</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1663480187513</updated>
+    </task>
+    <task id="LOCAL-00065" summary="info 蓄水池算法">
+      <created>1663480198476</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1663480198476</updated>
+    </task>
+    <task id="LOCAL-00066" summary="info 判断small是否为big的子树">
+      <created>1663480209542</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1663480209542</updated>
+    </task>
+    <task id="LOCAL-00067" summary="info Code02_ZeroLeftOneStringNumber">
+      <created>1663480224546</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1663480224546</updated>
+    </task>
+    <task id="LOCAL-00068" summary="info Code03_IsRotation">
+      <created>1663480238574</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1663480238574</updated>
+    </task>
+    <task id="LOCAL-00069" summary="info 单调栈">
+      <created>1663480247229</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1663480247229</updated>
+    </task>
+    <task id="LOCAL-00070" summary="info Code04_AllTimesMinToMax">
+      <created>1663480265875</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1663480265875</updated>
+    </task>
+    <task id="LOCAL-00071" summary="info 矩形覆盖">
+      <created>1663480277239</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1663480277239</updated>
+    </task>
+    <task id="LOCAL-00072" summary="info mrrios算法求 二叉树的最小高度问题">
+      <created>1663480289180</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1663480289180</updated>
+    </task>
+    <task id="LOCAL-00073" summary="info">
+      <created>1663480300885</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1663480300885</updated>
+    </task>
+    <task id="LOCAL-00074" summary="info 跳马问题，">
+      <created>1663480324082</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1663480324082</updated>
+    </task>
+    <option name="localTasksCounter" value="75" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -543,24 +528,10 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="info Code03_MonotonousStack" />
-    <MESSAGE value="info 单调栈&#10;数组中的某一个数，找到左右离它最近且小于它的数" />
-    <MESSAGE value="info Code04_AllTimesMinToMax" />
-    <MESSAGE value="info 跳马问题" />
-    <MESSAGE value="info 斐波那契数列问题" />
     <MESSAGE value="info 斐波那契数列问题 FibonacciProblem" />
     <MESSAGE value="info 斐波那契数列问题及其变种问题和快速幂" />
-    <MESSAGE value="info Code02_ZeroLeftOneStringNumber" />
     <MESSAGE value="info hello world" />
-    <MESSAGE value="info 判断small是否为big的子树" />
-    <MESSAGE value="info Code03_IsRotation" />
-    <MESSAGE value="info 蓄水池算法" />
-    <MESSAGE value="info 一个字符串，在尾部添加最少长度的串使之整体成为最长的回文串" />
-    <MESSAGE value="info mrrios算法求 二叉树的最小高度问题" />
     <MESSAGE value="info 线段树" />
-    <MESSAGE value="info Code02_FallingSquares" />
-    <MESSAGE value="info" />
-    <MESSAGE value="info 矩形覆盖" />
     <MESSAGE value="info 滑动窗口的数组最大值" />
     <MESSAGE value="info 最长线段覆盖" />
     <MESSAGE value="info 斐波那契数列" />
@@ -568,7 +539,21 @@
     <MESSAGE value="info KMP算法" />
     <MESSAGE value="info Manacher算法" />
     <MESSAGE value="info Morris算法" />
-    <option name="LAST_COMMIT_MESSAGE" value="info Morris算法" />
+    <MESSAGE value="info线段树" />
+    <MESSAGE value="info 一个字符串，在尾部添加最少长度的串使之整体成为最长的回文串" />
+    <MESSAGE value="info 所有小于Num的数的子数组的数量" />
+    <MESSAGE value="info Code02_FallingSquares" />
+    <MESSAGE value="info 蓄水池算法" />
+    <MESSAGE value="info 判断small是否为big的子树" />
+    <MESSAGE value="info Code02_ZeroLeftOneStringNumber" />
+    <MESSAGE value="info Code03_IsRotation" />
+    <MESSAGE value="info 单调栈" />
+    <MESSAGE value="info Code04_AllTimesMinToMax" />
+    <MESSAGE value="info 矩形覆盖" />
+    <MESSAGE value="info mrrios算法求 二叉树的最小高度问题" />
+    <MESSAGE value="info" />
+    <MESSAGE value="info 跳马问题，" />
+    <option name="LAST_COMMIT_MESSAGE" value="info 跳马问题，" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
