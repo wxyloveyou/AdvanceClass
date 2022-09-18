@@ -78,7 +78,7 @@
       <recent name="E:\Code\JavaCode\Algorithm\AdvanceClass\class02\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.test">
+  <component name="RunManager" selected="Application.test (1)">
     <configuration name="Code01_AppleMinBags" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Code01_AppleMinBags" />
       <module name="camp02_class01" />
@@ -107,9 +107,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="camp02_class01" />
+    <configuration name="test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test" />
+      <module name="camp01_class07" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -123,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.test (1)" />
         <item itemvalue="Application.test" />
         <item itemvalue="Application.Code03_MSumToN" />
         <item itemvalue="Application.Code02_EatGrass" />
         <item itemvalue="Application.Code01_AppleMinBags" />
-        <item itemvalue="Application.Main (3)" />
       </list>
     </recent_temporary>
   </component>
