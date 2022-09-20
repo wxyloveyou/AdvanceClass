@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ffc1415-200f-4d99-b9cb-9af4e08f3636" name="变更" comment="info 原地旋转一个正方形矩阵">
-      <change afterPath="$PROJECT_DIR$/trainingcamp002/camp02_class01/src/Code05_PrintMatrixSpiralOrder.java" afterDir="false" />
+    <list default="true" id="7ffc1415-200f-4d99-b9cb-9af4e08f3636" name="变更" comment="info 转圈打印一个矩阵">
+      <change afterPath="$PROJECT_DIR$/trainingcamp002/camp02_class01/src/Code06_ZigZagPrintMatrix.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -79,21 +79,7 @@
       <recent name="E:\Code\JavaCode\Algorithm\AdvanceClass\class02\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Code05_PrintMatrixSpiralOrder">
-    <configuration name="Code01_SegmentTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Code01_SegmentTree" />
-      <module name="class06" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Code03_MSumToN" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Code03_MSumToN" />
-      <module name="camp02_class01" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Code06_ZigZagPrintMatrix">
     <configuration name="Code04_RotateMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Code04_RotateMatrix" />
       <module name="camp02_class01" />
@@ -103,6 +89,13 @@
     </configuration>
     <configuration name="Code05_PrintMatrixSpiralOrder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Code05_PrintMatrixSpiralOrder" />
+      <module name="camp02_class01" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Code06_ZigZagPrintMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Code06_ZigZagPrintMatrix" />
       <module name="camp02_class01" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -124,11 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Code06_ZigZagPrintMatrix" />
         <item itemvalue="Application.Code05_PrintMatrixSpiralOrder" />
         <item itemvalue="Application.Code04_RotateMatrix" />
         <item itemvalue="Application.test (1)" />
         <item itemvalue="Application.test" />
-        <item itemvalue="Application.Code03_MSumToN" />
       </list>
     </recent_temporary>
   </component>
@@ -158,14 +151,9 @@
       <workItem from="1663414349044" duration="850000" />
       <workItem from="1663415215223" duration="290000" />
       <workItem from="1663415535407" duration="5280000" />
-      <workItem from="1663479286071" duration="7966000" />
-    </task>
-    <task id="LOCAL-00035" summary="info 一个字符串，在尾部添加最少长度的串使之整体成为最长的回文串">
-      <created>1662823122499</created>
-      <option name="number" value="00035" />
-      <option name="presentableId" value="LOCAL-00035" />
-      <option name="project" value="LOCAL" />
-      <updated>1662823122499</updated>
+      <workItem from="1663479286071" duration="8371000" />
+      <workItem from="1663585075143" duration="605000" />
+      <workItem from="1663672130197" duration="1280000" />
     </task>
     <task id="LOCAL-00036" summary="info 一个字符串，在尾部添加最少长度的串使之整体成为最长的回文串">
       <created>1662863265692</created>
@@ -503,7 +491,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663486152448</updated>
     </task>
-    <option name="localTasksCounter" value="84" />
+    <task id="LOCAL-00084" summary="info 转圈打印一个矩阵">
+      <created>1663491320158</created>
+      <option name="number" value="00084" />
+      <option name="presentableId" value="LOCAL-00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1663491320158</updated>
+    </task>
+    <option name="localTasksCounter" value="85" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -521,7 +516,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="info 最长线段覆盖" />
     <MESSAGE value="info 斐波那契数列" />
     <MESSAGE value="info 在arr无序数组中，怎么求第 K 小的数据" />
     <MESSAGE value="info KMP算法" />
@@ -546,7 +540,8 @@
     <MESSAGE value="info 是否是连续数的和问题" />
     <MESSAGE value="info" />
     <MESSAGE value="info 原地旋转一个正方形矩阵" />
-    <option name="LAST_COMMIT_MESSAGE" value="info 原地旋转一个正方形矩阵" />
+    <MESSAGE value="info 转圈打印一个矩阵" />
+    <option name="LAST_COMMIT_MESSAGE" value="info 转圈打印一个矩阵" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
