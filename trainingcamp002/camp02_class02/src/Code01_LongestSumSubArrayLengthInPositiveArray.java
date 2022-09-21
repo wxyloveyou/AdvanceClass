@@ -1,7 +1,8 @@
 /**
  * @author : WXY
  * @create : 2022-09-20 19:35
- * @Info : 在arr数组中，子数组的累加和刚刚号等于sum的子数组最长是多长
+ * @Info : 在非负arr数组中，子数组的累加和刚刚号等于sum的子数组最长是多长
+ *  arr 数组是非负的，sum 随长度的增大而增大
  */
 public class Code01_LongestSumSubArrayLengthInPositiveArray {
 
