@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ffc1415-200f-4d99-b9cb-9af4e08f3636" name="变更" comment="info">
-      <change afterPath="$PROJECT_DIR$/trainingcamp002/camp02_class02/src/Code01_LongestSumSubArrayLengthInPositiveArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="7ffc1415-200f-4d99-b9cb-9af4e08f3636" name="变更" comment="info  在arr数组中，子数组的累加和刚刚号等于sum的子数组最长是多长">
+      <change afterPath="$PROJECT_DIR$/trainingcamp002/camp02_class02/src/Code03_LongestLessSumSubArrayLength.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -80,7 +79,7 @@
       <recent name="E:\Code\JavaCode\Algorithm\AdvanceClass\class02\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Code01_LongestSumSubArrayLengthInPositiveArray">
+  <component name="RunManager" selected="Application.Code03_LongestLessSumSubArrayLength">
     <configuration name="Code01_LongestSumSubArrayLengthInPositiveArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Code01_LongestSumSubArrayLengthInPositiveArray" />
       <module name="camp02_class02" />
@@ -88,9 +87,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Code04_RotateMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Code04_RotateMatrix" />
-      <module name="camp02_class01" />
+    <configuration name="Code02_LongestSumSubArrayLength" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Code02_LongestSumSubArrayLength" />
+      <module name="camp02_class02" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Code03_LongestLessSumSubArrayLength" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Code03_LongestLessSumSubArrayLength" />
+      <module name="camp02_class02" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -109,20 +115,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test" />
-      <module name="camp01_class07" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Code03_LongestLessSumSubArrayLength" />
+        <item itemvalue="Application.Code02_LongestSumSubArrayLength" />
         <item itemvalue="Application.Code01_LongestSumSubArrayLengthInPositiveArray" />
         <item itemvalue="Application.Code06_ZigZagPrintMatrix" />
         <item itemvalue="Application.Code05_PrintMatrixSpiralOrder" />
-        <item itemvalue="Application.Code04_RotateMatrix" />
-        <item itemvalue="Application.test (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -155,35 +154,7 @@
       <workItem from="1663479286071" duration="8371000" />
       <workItem from="1663585075143" duration="605000" />
       <workItem from="1663672130197" duration="2248000" />
-      <workItem from="1663758127393" duration="2185000" />
-    </task>
-    <task id="LOCAL-00038" summary="info Morris算法">
-      <created>1662972193737</created>
-      <option name="number" value="00038" />
-      <option name="presentableId" value="LOCAL-00038" />
-      <option name="project" value="LOCAL" />
-      <updated>1662972193737</updated>
-    </task>
-    <task id="LOCAL-00039" summary="info">
-      <created>1662972202080</created>
-      <option name="number" value="00039" />
-      <option name="presentableId" value="LOCAL-00039" />
-      <option name="project" value="LOCAL" />
-      <updated>1662972202080</updated>
-    </task>
-    <task id="LOCAL-00040" summary="info mrrios算法求 二叉树的最小高度问题">
-      <created>1662974038587</created>
-      <option name="number" value="00040" />
-      <option name="presentableId" value="LOCAL-00040" />
-      <option name="project" value="LOCAL" />
-      <updated>1662974038587</updated>
-    </task>
-    <task id="LOCAL-00041" summary="info 线段树">
-      <created>1663166134307</created>
-      <option name="number" value="00041" />
-      <option name="presentableId" value="LOCAL-00041" />
-      <option name="project" value="LOCAL" />
-      <updated>1663166134307</updated>
+      <workItem from="1663758127393" duration="5484000" />
     </task>
     <task id="LOCAL-00042" summary="info">
       <created>1663166146136</created>
@@ -500,7 +471,35 @@
       <option name="project" value="LOCAL" />
       <updated>1663673508574</updated>
     </task>
-    <option name="localTasksCounter" value="87" />
+    <task id="LOCAL-00087" summary="info">
+      <created>1663761308853</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1663761308853</updated>
+    </task>
+    <task id="LOCAL-00088" summary="info  在arr数组中，子数组的累加和刚刚号等于sum的子数组最长是多长">
+      <created>1663761321546</created>
+      <option name="number" value="00088" />
+      <option name="presentableId" value="LOCAL-00088" />
+      <option name="project" value="LOCAL" />
+      <updated>1663761321546</updated>
+    </task>
+    <task id="LOCAL-00089" summary="info  在非负arr数组中，子数组的累加和刚刚号等于sum的子数组最长是多长">
+      <created>1663761582185</created>
+      <option name="number" value="00089" />
+      <option name="presentableId" value="LOCAL-00089" />
+      <option name="project" value="LOCAL" />
+      <updated>1663761582185</updated>
+    </task>
+    <task id="LOCAL-00090" summary="info  在arr数组中，子数组的累加和刚刚号等于sum的子数组最长是多长">
+      <created>1663762575576</created>
+      <option name="number" value="00090" />
+      <option name="presentableId" value="LOCAL-00090" />
+      <option name="project" value="LOCAL" />
+      <updated>1663762575577</updated>
+    </task>
+    <option name="localTasksCounter" value="91" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -518,8 +517,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="info 在arr无序数组中，怎么求第 K 小的数据" />
-    <MESSAGE value="info KMP算法" />
     <MESSAGE value="info Manacher算法" />
     <MESSAGE value="info Morris算法" />
     <MESSAGE value="info线段树" />
@@ -543,7 +540,9 @@
     <MESSAGE value="info 转圈打印一个矩阵" />
     <MESSAGE value="info  ZigZag打印一个矩阵" />
     <MESSAGE value="info" />
-    <option name="LAST_COMMIT_MESSAGE" value="info" />
+    <MESSAGE value="info  在非负arr数组中，子数组的累加和刚刚号等于sum的子数组最长是多长" />
+    <MESSAGE value="info  在arr数组中，子数组的累加和刚刚号等于sum的子数组最长是多长" />
+    <option name="LAST_COMMIT_MESSAGE" value="info  在arr数组中，子数组的累加和刚刚号等于sum的子数组最长是多长" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
