@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ffc1415-200f-4d99-b9cb-9af4e08f3636" name="变更" comment="info  在arr数组中，子数组的累加和刚刚号等于sum的子数组最长是多长">
-      <change afterPath="$PROJECT_DIR$/trainingcamp002/camp02_class02/src/Code03_LongestLessSumSubArrayLength.java" afterDir="false" />
+    <list default="true" id="7ffc1415-200f-4d99-b9cb-9af4e08f3636" name="变更" comment="info">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -154,21 +153,8 @@
       <workItem from="1663479286071" duration="8371000" />
       <workItem from="1663585075143" duration="605000" />
       <workItem from="1663672130197" duration="2248000" />
-      <workItem from="1663758127393" duration="5484000" />
-    </task>
-    <task id="LOCAL-00042" summary="info">
-      <created>1663166146136</created>
-      <option name="number" value="00042" />
-      <option name="presentableId" value="LOCAL-00042" />
-      <option name="project" value="LOCAL" />
-      <updated>1663166146136</updated>
-    </task>
-    <task id="LOCAL-00043" summary="info 最长线段覆盖">
-      <created>1663168517841</created>
-      <option name="number" value="00043" />
-      <option name="presentableId" value="LOCAL-00043" />
-      <option name="project" value="LOCAL" />
-      <updated>1663168517841</updated>
+      <workItem from="1663758127393" duration="5800000" />
+      <workItem from="1664005977734" duration="16000" />
     </task>
     <task id="LOCAL-00044" summary="info">
       <created>1663168525118</created>
@@ -499,7 +485,21 @@
       <option name="project" value="LOCAL" />
       <updated>1663762575577</updated>
     </task>
-    <option name="localTasksCounter" value="91" />
+    <task id="LOCAL-00091" summary="info  在arr数组中，子数组的累加和小于sum的子数组最长是多长">
+      <created>1663766565033</created>
+      <option name="number" value="00091" />
+      <option name="presentableId" value="LOCAL-00091" />
+      <option name="project" value="LOCAL" />
+      <updated>1663766565033</updated>
+    </task>
+    <task id="LOCAL-00092" summary="info">
+      <created>1663766573456</created>
+      <option name="number" value="00092" />
+      <option name="presentableId" value="LOCAL-00092" />
+      <option name="project" value="LOCAL" />
+      <updated>1663766573456</updated>
+    </task>
+    <option name="localTasksCounter" value="93" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -517,7 +517,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="info Manacher算法" />
     <MESSAGE value="info Morris算法" />
     <MESSAGE value="info线段树" />
     <MESSAGE value="info 一个字符串，在尾部添加最少长度的串使之整体成为最长的回文串" />
@@ -539,10 +538,11 @@
     <MESSAGE value="info 原地旋转一个正方形矩阵" />
     <MESSAGE value="info 转圈打印一个矩阵" />
     <MESSAGE value="info  ZigZag打印一个矩阵" />
-    <MESSAGE value="info" />
     <MESSAGE value="info  在非负arr数组中，子数组的累加和刚刚号等于sum的子数组最长是多长" />
     <MESSAGE value="info  在arr数组中，子数组的累加和刚刚号等于sum的子数组最长是多长" />
-    <option name="LAST_COMMIT_MESSAGE" value="info  在arr数组中，子数组的累加和刚刚号等于sum的子数组最长是多长" />
+    <MESSAGE value="info  在arr数组中，子数组的累加和小于sum的子数组最长是多长" />
+    <MESSAGE value="info" />
+    <option name="LAST_COMMIT_MESSAGE" value="info" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

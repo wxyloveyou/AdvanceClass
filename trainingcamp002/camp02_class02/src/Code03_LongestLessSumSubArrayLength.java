@@ -8,9 +8,9 @@ import sun.util.resources.cldr.vai.CalendarData_vai_Latn_LR;
  * arr数组，有 正数，负数，0
  */
 public class Code03_LongestLessSumSubArrayLength {
-    public static int maxLengthAwesome(int[] arr, int k) {
-        if (arr == null || arr.length == 0) {
-            return 0;
+            public static int maxLengthAwesome(int[] arr, int k) {
+                if (arr == null || arr.length == 0) {
+                    return 0;
         }
         int[] minSums = new int[arr.length];
         int[] minSumEnds = new int[arr.length];
