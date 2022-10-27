@@ -4,13 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ffc1415-200f-4d99-b9cb-9af4e08f3636" name="变更" comment="info Code03_SkipListMap 跳表实现">
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/WXY.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingcamp002/class02_class07/class02_class07.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingcamp002/class02_class07/src/Code01_CountofRangeSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="7ffc1415-200f-4d99-b9cb-9af4e08f3636" name="变更" comment="info">
+      <change afterPath="$PROJECT_DIR$/trainingcamp002/class02_class07/src/Code02_SlidingWindowMedian.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingcamp002/trainingcamp002.iml" beforeDir="false" afterPath="$PROJECT_DIR$/trainingcamp002/trainingcamp002.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -178,13 +174,7 @@
       <workItem from="1665621781491" duration="74000" />
       <workItem from="1666013005095" duration="606000" />
       <workItem from="1666095043458" duration="5772000" />
-    </task>
-    <task id="LOCAL-00048" summary="info 最长线段覆盖">
-      <created>1663415831011</created>
-      <option name="number" value="00048" />
-      <option name="presentableId" value="LOCAL-00048" />
-      <option name="project" value="LOCAL" />
-      <updated>1663415831011</updated>
+      <workItem from="1666866821700" duration="3284000" />
     </task>
     <task id="LOCAL-00049" summary="info 线段树">
       <created>1663415841206</created>
@@ -522,7 +512,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665582829843</updated>
     </task>
-    <option name="localTasksCounter" value="97" />
+    <task id="LOCAL-00097" summary="info">
+      <created>1666783838596</created>
+      <option name="number" value="00097" />
+      <option name="presentableId" value="LOCAL-00097" />
+      <option name="project" value="LOCAL" />
+      <updated>1666783838596</updated>
+    </task>
+    <option name="localTasksCounter" value="98" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -562,10 +559,10 @@
     <MESSAGE value="info  在非负arr数组中，子数组的累加和刚刚号等于sum的子数组最长是多长" />
     <MESSAGE value="info  在arr数组中，子数组的累加和刚刚号等于sum的子数组最长是多长" />
     <MESSAGE value="info  在arr数组中，子数组的累加和小于sum的子数组最长是多长" />
-    <MESSAGE value="info" />
     <MESSAGE value="info Code01_SizeBalancedTreeMap" />
     <MESSAGE value="info Code03_SkipListMap 跳表实现" />
-    <option name="LAST_COMMIT_MESSAGE" value="info Code03_SkipListMap 跳表实现" />
+    <MESSAGE value="info" />
+    <option name="LAST_COMMIT_MESSAGE" value="info" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
