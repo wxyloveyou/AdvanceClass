@@ -92,7 +92,7 @@
       <recent name="E:\Code\JavaCode\Algorithm\AdvanceClass\class02\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.maid">
     <configuration name="Code01_CountofRangeSum" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -117,16 +117,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="asdf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="asdf" />
+    <configuration name="jasdfj" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jasdfj" />
       <module name="camp02_class07" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="jasdfj" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="jasdfj" />
-      <module name="camp02_class07" />
+    <configuration name="maid" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="maid" />
+      <module name="camp02_class08" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -140,11 +140,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.maid" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Code01_SizeBalancedTreeMap" />
         <item itemvalue="Application.main1" />
         <item itemvalue="Application.jasdfj" />
-        <item itemvalue="Application.asdf" />
       </list>
     </recent_temporary>
   </component>
