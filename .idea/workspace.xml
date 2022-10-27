@@ -4,9 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ffc1415-200f-4d99-b9cb-9af4e08f3636" name="变更" comment="info">
-      <change afterPath="$PROJECT_DIR$/trainingcamp002/class02_class07/src/Code02_SlidingWindowMedian.java" afterDir="false" />
+    <list default="true" id="7ffc1415-200f-4d99-b9cb-9af4e08f3636" name="变更" comment="info Code02_SlidingWindowMedian">
+      <change afterPath="$PROJECT_DIR$/trainingcamp002/camp02_class08/camp02_class08.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trainingcamp002/camp02_class08/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainingcamp002/class02_class07/class02_class07.iml" beforeDir="false" afterPath="$PROJECT_DIR$/trainingcamp002/camp02_class07/camp02_class07.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainingcamp002/class02_class07/src/Code01_CountofRangeSum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainingcamp002/class02_class07/src/Code02_SlidingWindowMedian.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainingcamp002/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/trainingcamp002/camp02_class07/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +58,7 @@
     &quot;ToolWindowRun.ShowToolbar&quot;: &quot;false&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;jdk.selected.JAVA_MODULE&quot;: &quot;1.8&quot;,
-    &quot;last_opened_file_path&quot;: &quot;E:/Code/JavaCode/Algorithm/AdvanceClass/trainingcamp002&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/Code/JavaCode/Algorithm/AdvanceClass/out/production&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -62,6 +68,11 @@
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;JAVA&quot;
+    ]
   }
 }</component>
   <component name="RecentsManager">
@@ -69,22 +80,24 @@
       <recent name="line" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Code\JavaCode\Algorithm\AdvanceClass\out\production" />
       <recent name="E:\Code\JavaCode\Algorithm\AdvanceClass\trainingcamp002" />
       <recent name="E:\Code\JavaCode\Algorithm\AdvanceClass\trainingcamp001\camp01_class07\src" />
       <recent name="E:\Code\JavaCode\Algorithm\AdvanceClass\trainingcamp001\camp01_class06\src" />
       <recent name="E:\Code\JavaCode\Algorithm\AdvanceClass\trainingcamp001\camp01_class05\src" />
-      <recent name="E:\Code\JavaCode\Algorithm\AdvanceClass\trainingcamp001\camp01_class04\src" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Code\JavaCode\Algorithm\AdvanceClass\trainingcamp002" />
+      <recent name="E:\Code\JavaCode\Algorithm\AdvanceClass\out\production\camp02_class07" />
       <recent name="E:\Code\JavaCode\Algorithm\AdvanceClass\class02\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Code01_CountofRangeSum">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Code01_CountofRangeSum" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="MAIN_CLASS_NAME" value="Code01_CountofRangeSum" />
-      <module name="class02_class07" />
+      <module name="camp02_class07" />
       <option name="PROGRAM_PARAMETERS" value="$MAVEN_REPOSITORY$" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -97,23 +110,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Code03_LongestLessSumSubArrayLength" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Code03_LongestLessSumSubArrayLength" />
-      <module name="camp02_class02" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Code03_SkipListMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Code03_SkipListMap" />
-      <module name="camp02_class05" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="class02_class07" />
+      <module name="camp02_class07" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -125,13 +124,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="jasdfj" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jasdfj" />
+      <module name="camp02_class07" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main1" />
+      <module name="camp02_class07" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.asdf" />
-        <item itemvalue="Application.Code03_SkipListMap" />
         <item itemvalue="Application.Code01_SizeBalancedTreeMap" />
-        <item itemvalue="Application.Code03_LongestLessSumSubArrayLength" />
+        <item itemvalue="Application.main1" />
+        <item itemvalue="Application.jasdfj" />
+        <item itemvalue="Application.asdf" />
       </list>
     </recent_temporary>
   </component>
@@ -174,14 +187,8 @@
       <workItem from="1665621781491" duration="74000" />
       <workItem from="1666013005095" duration="606000" />
       <workItem from="1666095043458" duration="5772000" />
-      <workItem from="1666866821700" duration="3284000" />
-    </task>
-    <task id="LOCAL-00049" summary="info 线段树">
-      <created>1663415841206</created>
-      <option name="number" value="00049" />
-      <option name="presentableId" value="LOCAL-00049" />
-      <option name="project" value="LOCAL" />
-      <updated>1663415841206</updated>
+      <workItem from="1666866821700" duration="4238000" />
+      <workItem from="1666871102939" duration="298000" />
     </task>
     <task id="LOCAL-00050" summary="info Code02_FallingSquares">
       <created>1663417688097</created>
@@ -519,7 +526,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666783838596</updated>
     </task>
-    <option name="localTasksCounter" value="98" />
+    <task id="LOCAL-00098" summary="info Code02_SlidingWindowMedian">
+      <created>1666870142655</created>
+      <option name="number" value="00098" />
+      <option name="presentableId" value="LOCAL-00098" />
+      <option name="project" value="LOCAL" />
+      <updated>1666870142655</updated>
+    </task>
+    <option name="localTasksCounter" value="99" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -537,7 +551,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="info 一个字符串，在尾部添加最少长度的串使之整体成为最长的回文串" />
     <MESSAGE value="info 所有小于Num的数的子数组的数量" />
     <MESSAGE value="info Code02_FallingSquares" />
     <MESSAGE value="info 蓄水池算法" />
@@ -562,7 +575,8 @@
     <MESSAGE value="info Code01_SizeBalancedTreeMap" />
     <MESSAGE value="info Code03_SkipListMap 跳表实现" />
     <MESSAGE value="info" />
-    <option name="LAST_COMMIT_MESSAGE" value="info" />
+    <MESSAGE value="info Code02_SlidingWindowMedian" />
+    <option name="LAST_COMMIT_MESSAGE" value="info Code02_SlidingWindowMedian" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
