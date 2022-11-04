@@ -4,12 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="123ffa2c-cb0c-4bd0-a7bc-7cec61ad1a62" name="Changes" comment="info AC自动机">
-      <change afterPath="$PROJECT_DIR$/trainingcamp003/camp03_class01/camp03_class01.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingcamp003/camp03_class01/src/Code02_NeedParentheses.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingcamp003/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingcamp003/trainingcamp003.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="123ffa2c-cb0c-4bd0-a7bc-7cec61ad1a62" name="Changes" comment="info  Code01_CordCoverMaxPoint">
+      <change afterPath="$PROJECT_DIR$/trainingcamp003/camp03_class01/src/Code03_ParenthesesDeep.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,13 +51,13 @@
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "com.gitee.ui.GiteeSettingsConfigurable"
+    "settings.editor.selected.configurable": "fileTemplates"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Code02_NeedParentheses">
-    <configuration name="Code01_AppleMinBags (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Code01_AppleMinBags" />
-      <module name="camp02_class01" />
+  <component name="RunManager" selected="Application.Code03_ParenthesesDeep">
+    <configuration name="Code01_CordCoverMaxPoint" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Code01_CordCoverMaxPoint" />
+      <module name="camp03_class01" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -73,15 +69,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Code01_SlidingWindowMaxArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Code01_SlidingWindowMaxArray" />
-      <module name="camp01_class01" />
+    <configuration name="Code02_NeedParentheses" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Code02_NeedParentheses" />
+      <module name="camp03_class01" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Code02_NeedParentheses" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Code02_NeedParentheses" />
+    <configuration name="Code03_ParenthesesDeep" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Code03_ParenthesesDeep" />
       <module name="camp03_class01" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -96,11 +92,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Code03_ParenthesesDeep" />
+        <item itemvalue="Application.Code01_CordCoverMaxPoint" />
         <item itemvalue="Application.Code02_NeedParentheses" />
         <item itemvalue="Application.Code01_CountofRangeSum" />
         <item itemvalue="Application.maid" />
-        <item itemvalue="Application.Code01_SlidingWindowMaxArray" />
-        <item itemvalue="Application.Code01_AppleMinBags (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -116,7 +112,9 @@
       <workItem from="1666873265617" duration="103000" />
       <workItem from="1666873371134" duration="2724000" />
       <workItem from="1667214311505" duration="229000" />
-      <workItem from="1667217463012" duration="1921000" />
+      <workItem from="1667217463012" duration="3134000" />
+      <workItem from="1667227469657" duration="1065000" />
+      <workItem from="1667561482067" duration="2398000" />
     </task>
     <task id="LOCAL-00001" summary="info">
       <created>1666883052477</created>
@@ -132,7 +130,28 @@
       <option name="project" value="LOCAL" />
       <updated>1666883089330</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="info">
+      <created>1667222390310</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1667222390310</updated>
+    </task>
+    <task id="LOCAL-00004" summary="info 有效括号问题">
+      <created>1667222400182</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1667222400182</updated>
+    </task>
+    <task id="LOCAL-00005" summary="info  Code01_CordCoverMaxPoint">
+      <created>1667228500021</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1667228500021</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -151,8 +170,26 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="info" />
     <MESSAGE value="info AC自动机" />
-    <option name="LAST_COMMIT_MESSAGE" value="info AC自动机" />
+    <MESSAGE value="info" />
+    <MESSAGE value="info 有效括号问题" />
+    <MESSAGE value="info  Code01_CordCoverMaxPoint" />
+    <option name="LAST_COMMIT_MESSAGE" value="info  Code01_CordCoverMaxPoint" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/trainingcamp003/camp03_class01/src/Code03_ParenthesesDeep.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/trainingcamp003/camp03_class01/src/Code03_ParenthesesDeep.java</url>
+          <line>53</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
