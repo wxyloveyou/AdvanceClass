@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="123ffa2c-cb0c-4bd0-a7bc-7cec61ad1a62" name="Changes" comment="info  Code01_CordCoverMaxPoint">
-      <change afterPath="$PROJECT_DIR$/trainingcamp003/camp03_class01/src/Code03_ParenthesesDeep.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="123ffa2c-cb0c-4bd0-a7bc-7cec61ad1a62" name="Changes" comment="info  Code03_ParenthesesDeep">
+      <change beforePath="$PROJECT_DIR$/trainingcamp003/camp03_class01/src/Code03_ParenthesesDeep.java" beforeDir="false" afterPath="$PROJECT_DIR$/trainingcamp003/camp03_class01/src/Code03_ParenthesesDeep.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -114,7 +113,7 @@
       <workItem from="1667214311505" duration="229000" />
       <workItem from="1667217463012" duration="3134000" />
       <workItem from="1667227469657" duration="1065000" />
-      <workItem from="1667561482067" duration="2398000" />
+      <workItem from="1667561482067" duration="2449000" />
     </task>
     <task id="LOCAL-00001" summary="info">
       <created>1666883052477</created>
@@ -151,7 +150,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667228500021</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="info  Code03_ParenthesesDeep">
+      <created>1667563911979</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1667563911979</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -174,19 +180,20 @@
     <MESSAGE value="info" />
     <MESSAGE value="info 有效括号问题" />
     <MESSAGE value="info  Code01_CordCoverMaxPoint" />
-    <option name="LAST_COMMIT_MESSAGE" value="info  Code01_CordCoverMaxPoint" />
+    <MESSAGE value="info  Code03_ParenthesesDeep" />
+    <option name="LAST_COMMIT_MESSAGE" value="info  Code03_ParenthesesDeep" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/trainingcamp003/camp03_class01/src/Code03_ParenthesesDeep.java</url>
-          <line>33</line>
+          <line>31</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/trainingcamp003/camp03_class01/src/Code03_ParenthesesDeep.java</url>
-          <line>53</line>
+          <line>51</line>
           <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
