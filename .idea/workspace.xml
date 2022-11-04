@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="123ffa2c-cb0c-4bd0-a7bc-7cec61ad1a62" name="Changes" comment="info  Code03_ParenthesesDeep">
-      <change beforePath="$PROJECT_DIR$/trainingcamp003/camp03_class01/src/Code03_ParenthesesDeep.java" beforeDir="false" afterPath="$PROJECT_DIR$/trainingcamp003/camp03_class01/src/Code03_ParenthesesDeep.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trainingcamp003/camp03_class01/src/Code04_ColorLeftRight.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +54,7 @@
     "settings.editor.selected.configurable": "fileTemplates"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Code03_ParenthesesDeep">
+  <component name="RunManager" selected="Application.Code04_ColorLeftRight">
     <configuration name="Code01_CordCoverMaxPoint" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Code01_CordCoverMaxPoint" />
       <module name="camp03_class01" />
@@ -82,20 +83,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="maid" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="maid" />
-      <module name="camp02_class08" />
+    <configuration name="Code04_ColorLeftRight" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Code04_ColorLeftRight" />
+      <module name="camp03_class01" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Code04_ColorLeftRight" />
         <item itemvalue="Application.Code03_ParenthesesDeep" />
         <item itemvalue="Application.Code01_CordCoverMaxPoint" />
         <item itemvalue="Application.Code02_NeedParentheses" />
         <item itemvalue="Application.Code01_CountofRangeSum" />
-        <item itemvalue="Application.maid" />
       </list>
     </recent_temporary>
   </component>
@@ -113,7 +114,7 @@
       <workItem from="1667214311505" duration="229000" />
       <workItem from="1667217463012" duration="3134000" />
       <workItem from="1667227469657" duration="1065000" />
-      <workItem from="1667561482067" duration="2449000" />
+      <workItem from="1667561482067" duration="3262000" />
     </task>
     <task id="LOCAL-00001" summary="info">
       <created>1666883052477</created>
@@ -157,7 +158,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667563911979</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="info  Code03_ParenthesesDeep">
+      <created>1667563954462</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1667563954462</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
