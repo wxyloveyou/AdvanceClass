@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="123ffa2c-cb0c-4bd0-a7bc-7cec61ad1a62" name="Changes" comment="info 洗衣机问题">
-      <change beforePath="$PROJECT_DIR$/trainingcamp003/camp_class02/camp_class02.iml" beforeDir="false" afterPath="$PROJECT_DIR$/trainingcamp003/camp03_class02/camp03_class02.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingcamp003/src/Code02_PackingMachine.java" beforeDir="false" afterPath="$PROJECT_DIR$/trainingcamp003/camp03_class02/src/Code02_PackingMachine.java" afterDir="false" />
+    <list default="true" id="123ffa2c-cb0c-4bd0-a7bc-7cec61ad1a62" name="Changes" comment="info">
+      <change afterPath="$PROJECT_DIR$/trainingcamp003/camp03_class02/camp03_class02.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trainingcamp003/camp03_class02/src/Code02_PackingMachine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trainingcamp003/camp03_class02/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +23,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -119,7 +121,7 @@
       <workItem from="1667659945239" duration="1713000" />
       <workItem from="1667701772568" duration="8000" />
       <workItem from="1667712388251" duration="8190000" />
-      <workItem from="1667911742231" duration="1481000" />
+      <workItem from="1667911742231" duration="1810000" />
     </task>
     <task id="LOCAL-00001" summary="info">
       <created>1666883052477</created>
@@ -212,7 +214,28 @@
       <option name="project" value="LOCAL" />
       <updated>1667913125585</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="info">
+      <created>1667913255039</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1667913255039</updated>
+    </task>
+    <task id="LOCAL-00015" summary="info">
+      <created>1667913283096</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1667913283096</updated>
+    </task>
+    <task id="LOCAL-00016" summary="info">
+      <created>1667913446753</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1667913446753</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -232,7 +255,6 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="info AC自动机" />
-    <MESSAGE value="info" />
     <MESSAGE value="info 有效括号问题" />
     <MESSAGE value="info  Code01_CordCoverMaxPoint" />
     <MESSAGE value="info  Code03_ParenthesesDeep" />
@@ -241,7 +263,8 @@
     <MESSAGE value="info  生成一个数组，对于任意的 i&lt;k&lt;j，满足   [i] + [j]  != [k] * 2" />
     <MESSAGE value="info  树上的最大和" />
     <MESSAGE value="info 洗衣机问题" />
-    <option name="LAST_COMMIT_MESSAGE" value="info 洗衣机问题" />
+    <MESSAGE value="info" />
+    <option name="LAST_COMMIT_MESSAGE" value="info" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
