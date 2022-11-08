@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="123ffa2c-cb0c-4bd0-a7bc-7cec61ad1a62" name="Changes" comment="info  树上的最大和">
-      <change afterPath="$PROJECT_DIR$/trainingcamp003/camp_class02/camp_class02.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingcamp003/src/Code02_PackingMachine.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingcamp003/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/trainingcamp003/camp_class02/src/Main.java" afterDir="false" />
+    <list default="true" id="123ffa2c-cb0c-4bd0-a7bc-7cec61ad1a62" name="Changes" comment="info 洗衣机问题">
+      <change beforePath="$PROJECT_DIR$/trainingcamp003/camp_class02/camp_class02.iml" beforeDir="false" afterPath="$PROJECT_DIR$/trainingcamp003/camp03_class02/camp03_class02.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainingcamp003/src/Code02_PackingMachine.java" beforeDir="false" afterPath="$PROJECT_DIR$/trainingcamp003/camp03_class02/src/Code02_PackingMachine.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -122,7 +119,7 @@
       <workItem from="1667659945239" duration="1713000" />
       <workItem from="1667701772568" duration="8000" />
       <workItem from="1667712388251" duration="8190000" />
-      <workItem from="1667911742231" duration="1180000" />
+      <workItem from="1667911742231" duration="1481000" />
     </task>
     <task id="LOCAL-00001" summary="info">
       <created>1666883052477</created>
@@ -201,7 +198,21 @@
       <option name="project" value="LOCAL" />
       <updated>1667724703185</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="info  树上的最大和">
+      <created>1667913067499</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1667913067499</updated>
+    </task>
+    <task id="LOCAL-00013" summary="info 洗衣机问题">
+      <created>1667913125585</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1667913125585</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -229,7 +240,8 @@
     <MESSAGE value="info  给定一个N* N 的矩阵，只有0 ， 1,，返回边框全是1 的最大正方形边长长度" />
     <MESSAGE value="info  生成一个数组，对于任意的 i&lt;k&lt;j，满足   [i] + [j]  != [k] * 2" />
     <MESSAGE value="info  树上的最大和" />
-    <option name="LAST_COMMIT_MESSAGE" value="info  树上的最大和" />
+    <MESSAGE value="info 洗衣机问题" />
+    <option name="LAST_COMMIT_MESSAGE" value="info 洗衣机问题" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
