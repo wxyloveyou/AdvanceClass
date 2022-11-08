@@ -15,7 +15,7 @@ public class Code03_MaxABSBetweenLeftAndRight {
         for (int i = 0; i < arr.length; i++) {
             max = max < arr[i] ? arr[i] : max;
         }
-        return max - Math.max(arr[0], arr[arr.length - 1]);
+        return max - Math.min(arr[0], arr[arr.length - 1]);
     }
     public static int[] generateRandomArray(int length) {
         int[] arr = new int[length];
