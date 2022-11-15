@@ -4,10 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="123ffa2c-cb0c-4bd0-a7bc-7cec61ad1a62" name="Changes" comment="info">
-      <change afterPath="$PROJECT_DIR$/trainingcamp003/camp03_class02/camp03_class02.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingcamp003/camp03_class02/src/Code02_PackingMachine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingcamp003/camp03_class02/src/Main.java" afterDir="false" />
+    <list default="true" id="123ffa2c-cb0c-4bd0-a7bc-7cec61ad1a62" name="Changes" comment="info 二维积水问题">
+      <change afterPath="$PROJECT_DIR$/trainingcamp003/camp03_class02/src/Code06_PrintUniquePairAndTriad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trainingcamp003/camp03_class03/camp03_class03.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trainingcamp003/camp03_class03/src/Code01_ChooseWork.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,31 +58,29 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;fileTemplates&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Code06_MakeNo">
-    <configuration name="Code01_CordCoverMaxPoint" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Code01_CordCoverMaxPoint" />
-      <module name="camp03_class01" />
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Code06_PrintUniquePairAndTriad">
+    <configuration name="Code01_FindNumInSortedMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Code01_FindNumInSortedMatrix" />
+      <module name="camp03_class02" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Code03_ParenthesesDeep" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Code03_ParenthesesDeep" />
-      <module name="camp03_class01" />
+    <configuration name="Code03_MaxABSBetweenLeftAndRight" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Code03_MaxABSBetweenLeftAndRight" />
+      <module name="camp03_class02" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Code04_ColorLeftRight" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Code04_ColorLeftRight" />
-      <module name="camp03_class01" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Code05_MaxOneBorderSize" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Code05_MaxOneBorderSize" />
-      <module name="camp03_class01" />
+    <configuration name="Code04_TrappingRainWater" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Code04_TrappingRainWater" />
+      <module name="camp03_class02" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -92,13 +92,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Code06_PrintUniquePairAndTriad" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Code06_PrintUniquePairAndTriad" />
+      <module name="camp03_class02" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Code06_PrintUniquePairAndTriad" />
+        <item itemvalue="Application.Code04_TrappingRainWater" />
+        <item itemvalue="Application.Code01_FindNumInSortedMatrix" />
+        <item itemvalue="Application.Code03_MaxABSBetweenLeftAndRight" />
         <item itemvalue="Application.Code06_MakeNo" />
-        <item itemvalue="Application.Code05_MaxOneBorderSize" />
-        <item itemvalue="Application.Code04_ColorLeftRight" />
-        <item itemvalue="Application.Code03_ParenthesesDeep" />
-        <item itemvalue="Application.Code01_CordCoverMaxPoint" />
       </list>
     </recent_temporary>
   </component>
@@ -121,7 +128,10 @@
       <workItem from="1667659945239" duration="1713000" />
       <workItem from="1667701772568" duration="8000" />
       <workItem from="1667712388251" duration="8190000" />
-      <workItem from="1667911742231" duration="1810000" />
+      <workItem from="1667911742231" duration="2847000" />
+      <workItem from="1667999303334" duration="3227000" />
+      <workItem from="1668085449029" duration="607000" />
+      <workItem from="1668516520167" duration="1006000" />
     </task>
     <task id="LOCAL-00001" summary="info">
       <created>1666883052477</created>
@@ -235,7 +245,56 @@
       <option name="project" value="LOCAL" />
       <updated>1667913446753</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="info">
+      <created>1667913597152</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1667913597152</updated>
+    </task>
+    <task id="LOCAL-00018" summary="info 洗衣机问题">
+      <created>1667913632692</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1667913632692</updated>
+    </task>
+    <task id="LOCAL-00019" summary="info 最大值的绝对值在左右之间">
+      <created>1667914546653</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1667914546653</updated>
+    </task>
+    <task id="LOCAL-00020" summary="info 最大值的绝对值在左右之间">
+      <created>1667914603556</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1667914603556</updated>
+    </task>
+    <task id="LOCAL-00021" summary="info 最在二维有序数组中查找某个数">
+      <created>1667999670587</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1667999670587</updated>
+    </task>
+    <task id="LOCAL-00022" summary="info 一维积水问题">
+      <created>1668000298512</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1668000298512</updated>
+    </task>
+    <task id="LOCAL-00023" summary="info 二维积水问题">
+      <created>1668001648323</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1668001648323</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -262,9 +321,13 @@
     <MESSAGE value="info  给定一个N* N 的矩阵，只有0 ， 1,，返回边框全是1 的最大正方形边长长度" />
     <MESSAGE value="info  生成一个数组，对于任意的 i&lt;k&lt;j，满足   [i] + [j]  != [k] * 2" />
     <MESSAGE value="info  树上的最大和" />
-    <MESSAGE value="info 洗衣机问题" />
     <MESSAGE value="info" />
-    <option name="LAST_COMMIT_MESSAGE" value="info" />
+    <MESSAGE value="info 洗衣机问题" />
+    <MESSAGE value="info 最大值的绝对值在左右之间" />
+    <MESSAGE value="info 最在二维有序数组中查找某个数" />
+    <MESSAGE value="info 一维积水问题" />
+    <MESSAGE value="info 二维积水问题" />
+    <option name="LAST_COMMIT_MESSAGE" value="info 二维积水问题" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -278,6 +341,11 @@
           <url>file://$PROJECT_DIR$/trainingcamp003/camp03_class01/src/Code03_ParenthesesDeep.java</url>
           <line>51</line>
           <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/trainingcamp003/camp03_class02/src/Code01_FindNumInSortedMatrix.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
